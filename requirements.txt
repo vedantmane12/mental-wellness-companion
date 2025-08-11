@@ -1,0 +1,39 @@
+# Core Dependencies
+python-dotenv
+pydantic
+pyyaml
+
+# AI/ML
+openai
+torch
+numpy
+scikit-learn
+
+# RL Dependencies
+gymnasium
+stable-baselines3
+
+# API & Web
+fastapi
+uvicorn
+streamlit
+requests
+
+# Knowledge & Search
+serpapi
+
+# Data Processing
+pandas
+matplotlib
+seaborn
+plotly
+
+# Utilities
+tqdm
+colorama
+loguru
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
