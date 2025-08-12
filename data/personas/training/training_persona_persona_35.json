@@ -1,0 +1,74 @@
+{
+  "id": "persona_35",
+  "demographics": {
+    "age": 29,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "grief from recent loss",
+      "anxiety about the future",
+      "difficulty concentrating"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "anniversaries of the loss",
+      "social gatherings",
+      "specific songs"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "art therapy",
+      "support groups"
+    ],
+    "therapy_history": "has attended individual therapy sessions for 3 months",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "empathetic",
+      "introverted",
+      "reflective",
+      "sensitive"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "process grief in a healthy way",
+    "develop better coping strategies",
+    "find joy in creative expression again"
+  ],
+  "barriers": [
+    "fear of being judged by peers",
+    "overwhelm from daily responsibilities",
+    "difficulty in reaching out for help"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on grief",
+      "interactive community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Maria recently lost her younger brother in a tragic accident. They were very close, and his death has left a significant void in her life. As a creative person, she finds solace in art but struggles to express her feelings since the loss.",
+  "archetype": "grieving_individual",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015753_d728fa",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

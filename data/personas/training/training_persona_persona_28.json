@@ -1,0 +1,74 @@
+{
+  "id": "persona_28",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "marketing specialist",
+    "education": "Bachelor's degree in Communications",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety about job stability",
+      "imposter syndrome",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "tight deadlines",
+      "lack of recognition",
+      "unclear job expectations"
+    ],
+    "coping_mechanisms": [
+      "mindfulness meditation",
+      "journaling",
+      "talking to friends"
+    ],
+    "therapy_history": "I have seen a therapist sporadically in the past for anxiety management.",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "thoughtful",
+      "ambitious",
+      "introverted",
+      "empathetic",
+      "detail-oriented"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "establish a clearer career path",
+    "reduce anxiety levels",
+    "achieve a better work-life balance"
+  ],
+  "barriers": [
+    "fear of taking risks",
+    "feeling overwhelmed by responsibilities",
+    "self-doubt"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on career transitions",
+      "interactive webinars"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After working in the marketing field for over a decade, I recently realized that my current role doesn't align with my passions. I am contemplating a career transition but feel anxious and uncertain about how to approach it.",
+  "archetype": "career_transition",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015657_b81042",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

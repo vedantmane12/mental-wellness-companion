@@ -1,0 +1,74 @@
+{
+  "id": "persona_84",
+  "demographics": {
+    "age": 75,
+    "gender": "female",
+    "occupation": "retired nurse",
+    "education": "Bachelor's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "loneliness",
+      "depression",
+      "anxiety"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "isolation",
+      "holidays",
+      "memories of late spouse"
+    ],
+    "coping_mechanisms": [
+      "reading",
+      "gardening",
+      "occasional calls with family"
+    ],
+    "therapy_history": "attended group therapy for grief support",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "thoughtful",
+      "introverted",
+      "resilient",
+      "nostalgic"
+    ],
+    "communication_style": "emotional",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "reduce feelings of loneliness",
+    "engage in social activities",
+    "practice mindfulness"
+  ],
+  "barriers": [
+    "limited mobility",
+    "fear of social interaction",
+    "lack of local support networks"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "community forums",
+      "educational articles"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After losing her husband of 50 years, Alice has struggled with loneliness and depression. Previously a dedicated nurse, she finds solace in nature but often feels too isolated at home. She's looking for ways to connect with others and cope with her grief in a healthy way.",
+  "archetype": "isolated_elder",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020420_bc314f",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.45,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

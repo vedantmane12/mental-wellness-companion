@@ -1,0 +1,74 @@
+{
+  "id": "persona_30",
+  "demographics": {
+    "age": 38,
+    "gender": "female",
+    "occupation": "Marketing Manager",
+    "education": "Master's Degree in Business Administration",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "work-life balance issues",
+      "stress management"
+    ],
+    "severity": "moderate",
+    "duration": "3 years",
+    "triggers": [
+      "high workload",
+      "tight deadlines",
+      "lack of support from management"
+    ],
+    "coping_mechanisms": [
+      "exercise",
+      "journaling",
+      "mindfulness meditation"
+    ],
+    "therapy_history": "attended therapy for 6 months a year ago, found it helpful but discontinued due to time constraints",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "perfectionistic",
+      "empathetic",
+      "driven",
+      "self-critical",
+      "organized"
+    ],
+    "communication_style": "direct",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "reduce anxiety levels",
+    "achieve a better work-life balance",
+    "improve self-care habits"
+  ],
+  "barriers": [
+    "time constraints",
+    "feeling overwhelmed",
+    "lack of support from peers"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on work-life balance",
+      "interactive quizzes"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After climbing the corporate ladder quickly, she finds herself in a demanding role that leaves little time for herself or her family. Juggling work with her responsibilities as a mother, she often feels anxious and overwhelmed, which has led her to seek out tools for managing her mental wellness.",
+  "archetype": "anxious_professional",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015714_e310e9",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

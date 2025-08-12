@@ -1,0 +1,75 @@
+{
+  "id": "persona_34",
+  "demographics": {
+    "age": 65,
+    "gender": "female",
+    "occupation": "former teacher",
+    "education": "master's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "feelings of purposelessness",
+      "mild anxiety",
+      "social isolation"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "lack of social interaction",
+      "disconnection from community",
+      "changes in daily routine"
+    ],
+    "coping_mechanisms": [
+      "walking",
+      "reading",
+      "spending time with family"
+    ],
+    "therapy_history": "attended counseling sessions post-divorce 10 years ago",
+    "medication": "no"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "thoughtful",
+      "introverted",
+      "curious",
+      "reflective"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "reconnect with former colleagues",
+    "explore new hobbies",
+    "volunteer in the community",
+    "improve mental well-being"
+  ],
+  "barriers": [
+    "fear of rejection",
+    "limited local resources",
+    "difficulty in establishing new routines"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles",
+      "guided meditations",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After 30 years as a high school teacher, Linda recently retired and has struggled to find purpose in her day-to-day life. She misses the interaction with students and colleagues, and is seeking new ways to connect and contribute to her community.",
+  "archetype": "isolated_elder",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015746_d27d24",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

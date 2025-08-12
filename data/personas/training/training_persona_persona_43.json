@@ -1,0 +1,74 @@
+{
+  "id": "persona_43",
+  "demographics": {
+    "age": 38,
+    "gender": "female",
+    "occupation": "elementary school teacher",
+    "education": "Bachelor's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "stress management",
+      "burnout"
+    ],
+    "severity": "moderate",
+    "duration": "3 years",
+    "triggers": [
+      "overwhelming schedules",
+      "lack of support",
+      "children's behavioral issues"
+    ],
+    "coping_mechanisms": [
+      "mindfulness meditation",
+      "journaling",
+      "regular exercise"
+    ],
+    "therapy_history": "attended cognitive-behavioral therapy for 6 months; found it helpful but struggled to continue due to time constraints",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "resilient",
+      "organized",
+      "introverted",
+      "thoughtful"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "improve stress management skills",
+    "enhance self-care practices",
+    "increase patience and understanding towards her child"
+  ],
+  "barriers": [
+    "limited free time",
+    "guilt over taking time for herself",
+    "financial constraints for therapy"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "educational articles on special needs parenting",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Emily is a dedicated mother of a 10-year-old boy with autism. Balancing her job as a teacher and the challenges of parenting a special needs child has left her feeling stretched thin. She seeks mental wellness tools that help her manage her anxiety while providing support for her unique parenting journey.",
+  "archetype": "overwhelmed_parent",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015846_9aed25",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

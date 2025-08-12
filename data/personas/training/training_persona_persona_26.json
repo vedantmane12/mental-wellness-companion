@@ -1,0 +1,74 @@
+{
+  "id": "persona_26",
+  "demographics": {
+    "age": 35,
+    "gender": "female",
+    "occupation": "Registered Nurse",
+    "education": "Bachelor's Degree in Nursing",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "burnout",
+      "anxiety",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "long shifts",
+      "high patient volume",
+      "lack of support from management"
+    ],
+    "coping_mechanisms": [
+      "yoga",
+      "journaling",
+      "talking to friends"
+    ],
+    "therapy_history": "attended therapy for a few sessions last year but didn't continue due to time constraints",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "resilient",
+      "thoughtful",
+      "anxious",
+      "perfectionist"
+    ],
+    "communication_style": "direct",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "reduce stress",
+    "improve self-care",
+    "create better work-life boundaries"
+  ],
+  "barriers": [
+    "busy work schedule",
+    "limited support from colleagues",
+    "difficulty prioritizing self-care"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles",
+      "videos",
+      "guided meditations"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After five years in a high-pressure nursing role, she has started feeling overwhelmed and burned out. Despite her passion for helping others, the demands of her job have taken a toll on her mental health. She is seeking solutions to rejuvenate her energy and find a better balance in her life.",
+  "archetype": "burnout_healthcare",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015643_979def",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

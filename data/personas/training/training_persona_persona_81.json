@@ -1,0 +1,75 @@
+{
+  "id": "persona_81",
+  "demographics": {
+    "age": 24,
+    "gender": "female",
+    "occupation": "graduate student",
+    "education": "Master's degree candidate",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "research anxiety",
+      "time management",
+      "imposter syndrome"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "upcoming deadlines",
+      "peer comparisons",
+      "lack of feedback from advisors"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "meditation",
+      "exercise",
+      "talking to friends"
+    ],
+    "therapy_history": "has attended therapy sessions on and off during undergraduate studies",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "perfectionistic",
+      "empathetic",
+      "intellectual",
+      "introverted",
+      "self-critical"
+    ],
+    "communication_style": "analytical",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "reduce anxiety related to research",
+    "improve time management skills",
+    "develop a healthier self-image"
+  ],
+  "barriers": [
+    "overcommitment to extracurricular activities",
+    "fear of failure",
+    "difficulty seeking help"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "stress management strategies",
+      "time management tips"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Maria grew up in a diverse urban neighborhood and pursued her passion for psychology during her undergraduate years. Now in her second year of graduate studies, she finds herself struggling with the pressures of research, feeling overwhelmed by the expectations she places on herself and the comparisons she draws with her peers.",
+  "archetype": "stressed_student",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020356_0a0e7d",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

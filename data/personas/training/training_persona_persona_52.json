@@ -1,0 +1,80 @@
+{
+  "id": "persona_52",
+  "demographics": {
+    "age": 35,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "chronic low mood",
+      "lack of motivation",
+      "social withdrawal",
+      "feelings of hopelessness"
+    ],
+    "severity": "moderate",
+    "duration": "3 years",
+    "triggers": [
+      "stress from work deadlines",
+      "isolation during the pandemic",
+      "negative self-talk",
+      "conflicts in personal relationships"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "art therapy",
+      "listening to music",
+      "occasional meditation"
+    ],
+    "therapy_history": "has attended therapy sessions intermittently over the past 2 years but has struggled to maintain consistency",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "sensitive",
+      "introverted",
+      "empathetic",
+      "persistent"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "develop a regular self-care routine",
+    "improve mood stability",
+    "increase social interactions",
+    "enhance coping strategies"
+  ],
+  "barriers": [
+    "difficulty in maintaining motivation",
+    "fear of judgment from others",
+    "finding time among work responsibilities",
+    "past negative experiences with therapy"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on coping strategies",
+      "interactive mood tracking",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Growing up in a supportive, close-knit family, she excelled in arts but has faced increasing pressures as an adult. The transition to remote work during the pandemic exacerbated her feelings of loneliness and depression, prompting her to seek help through various self-care practices and mental wellness resources.",
+  "archetype": "depressed_adult",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015951_3b6c07",
+  "initial_emotional_state": {
+    "anxiety": 0.3,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

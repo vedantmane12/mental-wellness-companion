@@ -1,0 +1,76 @@
+{
+  "id": "persona_24",
+  "demographics": {
+    "age": 72,
+    "gender": "female",
+    "occupation": "retired nurse",
+    "education": "Bachelor's degree in Nursing",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "loneliness",
+      "anxiety",
+      "grief"
+    ],
+    "severity": "moderate",
+    "duration": "1 year since spouse's passing",
+    "triggers": [
+      "holidays",
+      "anniversaries",
+      "seeing couples together"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "gardening",
+      "occasional volunteer work"
+    ],
+    "therapy_history": "attended grief counseling for 6 months after husband's death",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "resilient",
+      "introverted",
+      "thoughtful",
+      "caring"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "improve social connections",
+    "reduce feelings of loneliness",
+    "explore new hobbies",
+    "manage anxiety"
+  ],
+  "barriers": [
+    "limited mobility",
+    "lack of nearby family support",
+    "feelings of being a burden"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "community forums",
+      "self-help articles",
+      "virtual support groups"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After the passing of her husband, she has found it increasingly difficult to feel connected to others. Living alone in her suburban home, she misses the conversations and companionship they shared. Although she has made strides in volunteering, she often feels overwhelmed by loneliness, especially during family gatherings and holidays.",
+  "archetype": "isolated_elder",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015628_2a7869",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

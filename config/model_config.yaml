@@ -1,0 +1,49 @@
+# Model Configuration for Mental Wellness Companion
+
+# Neural Network Architecture
+policy_network:
+  input_dim: 256  # State embedding dimension
+  hidden_layers: [512, 256, 128]
+  activation: "relu"
+  dropout: 0.1
+  output_dim: 19  # 8 strategies + 6 resources + 5 tones
+  
+value_network:
+  input_dim: 256
+  hidden_layers: [512, 256, 128]
+  activation: "relu"
+  dropout: 0.1
+  output_dim: 1  # Single value output
+
+# State Representation
+state_features:
+  emotional_dimensions: 5  # anxiety, depression, stress, anger, happiness
+  conversation_history_length: 5
+  engagement_metrics: 3  # response_length, response_time, sentiment
+  temporal_features: 2  # time_since_last, session_duration
+  total_dim: 256  # Total state embedding dimension
+
+# Action Space
+action_space:
+  conversation_strategy_dim: 8
+  resource_recommendation_dim: 6
+  response_tone_dim: 5
+  check_in_timing_range: [1, 168]  # hours
+
+# Reward Configuration
+reward_weights:
+  engagement: 0.4
+  mood_improvement: 0.3
+  resource_utilization: 0.2
+  conversation_quality: 0.1
+  safety_penalty: -1.0
+  crisis_penalty: -10.0
+
+# Training Parameters
+training:
+  max_steps_per_episode: 10
+  num_parallel_envs: 4
+  normalize_advantage: true
+  normalize_rewards: true
+  entropy_coefficient: 0.01
+  value_loss_coefficient: 0.5

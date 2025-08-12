@@ -1,0 +1,76 @@
+{
+  "id": "persona_58",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "marketing manager",
+    "education": "Bachelor's degree in Communications",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety about career prospects",
+      "self-doubt",
+      "fear of failure"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "performance reviews",
+      "tight deadlines",
+      "comparison with colleagues"
+    ],
+    "coping_mechanisms": [
+      "mindfulness meditation",
+      "journaling",
+      "exercise"
+    ],
+    "therapy_history": "Attended therapy for 3 months last year but ended due to financial constraints",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "ambitious",
+      "anxious",
+      "empathetic",
+      "determined",
+      "creative"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "gain confidence in professional abilities",
+    "develop effective stress management techniques",
+    "find clarity about career transitions",
+    "improve work-life balance"
+  ],
+  "barriers": [
+    "financial constraints for therapy",
+    "fear of judgment from peers",
+    "lack of accessible resources",
+    "time limitations due to work commitments"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on career transitions",
+      "community support groups"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After an unexpected layoff and feeling stuck in her current marketing role, she is exploring new career paths but is overwhelmed by anxiety and uncertainty. She seeks guidance to navigate the transition and regain her confidence.",
+  "archetype": "career_transition",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020042_b05796",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

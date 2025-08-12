@@ -1,0 +1,78 @@
+{
+  "id": "persona_40",
+  "demographics": {
+    "age": 62,
+    "gender": "female",
+    "occupation": "Human Resources Manager",
+    "education": "Master's Degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "retirement anxiety",
+      "loss of identity",
+      "financial security",
+      "social isolation"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "discussions about retirement",
+      "seeing peers retire",
+      "financial planning meetings"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "gardening",
+      "weekly yoga classes",
+      "talking to friends"
+    ],
+    "therapy_history": "attended cognitive behavioral therapy sessions for 4 months a year ago, found it helpful but discontinued due to cost",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "analytical",
+      "empathetic",
+      "nurturing",
+      "thoughtful",
+      "reserved"
+    ],
+    "communication_style": "supportive",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "to feel more secure about retirement",
+    "to maintain social connections",
+    "to explore new hobbies",
+    "to develop a financial plan"
+  ],
+  "barriers": [
+    "fear of financial instability",
+    "lack of community engagement",
+    "difficulty in transitioning from a structured work routine"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles",
+      "videos",
+      "forums",
+      "guided meditations"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After a successful 30-year career in human resources, Maria feels lost as she approaches retirement. She has dedicated her life to her job and fears losing the sense of purpose it provided. With her children grown and living far away, she's keen on forging new connections and hobbies but struggles with the uncertainty of the future.",
+  "archetype": "anxious_professional",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015825_f4aed6",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

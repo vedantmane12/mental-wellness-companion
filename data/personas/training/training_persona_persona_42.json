@@ -1,0 +1,79 @@
+{
+  "id": "persona_42",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor’s degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "postpartum depression",
+      "difficulty bonding with the baby",
+      "feelings of overwhelming sadness",
+      "anxiety about motherhood"
+    ],
+    "severity": "moderate",
+    "duration": "4 months",
+    "triggers": [
+      "lack of sleep",
+      "social isolation",
+      "feeling unsupported by partner",
+      "overwhelm from baby care tasks"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "short walks with the baby",
+      "engaging in online support groups"
+    ],
+    "therapy_history": "attended a few sessions with a therapist specializing in postpartum issues but had to pause due to scheduling conflicts",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "thoughtful",
+      "sensitive",
+      "anxious",
+      "empathetic"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "improve emotional well-being",
+    "build a stronger bond with the baby",
+    "develop a sustainable self-care routine",
+    "better manage anxiety"
+  ],
+  "barriers": [
+    "lack of time for self-care",
+    "feeling of guilt when taking time for herself",
+    "limited social support",
+    "uncertainty about seeking help"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "audio meditations",
+      "guided journaling exercises",
+      "educational articles on postpartum experiences",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After the birth of her first child, Emma struggled to adjust to motherhood and felt very isolated. As a freelance graphic designer, working from home added to her feelings of loneliness. She is eager to find effective resources that can help her navigate her emotions and connect with others who understand her journey.",
+  "archetype": "depressed_adult",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015839_b0d111",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.45,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

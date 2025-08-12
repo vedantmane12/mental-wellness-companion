@@ -1,0 +1,74 @@
+{
+  "id": "persona_36",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "Registered Nurse",
+    "education": "Bachelor's Degree in Nursing",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "burnout",
+      "anxiety",
+      "stress management"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "long shifts",
+      "high patient-to-nurse ratios",
+      "lack of support from management"
+    ],
+    "coping_mechanisms": [
+      "exercise",
+      "journaling",
+      "talking to friends"
+    ],
+    "therapy_history": "attended therapy sessions for a few months a year ago",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "driven",
+      "perfectionistic",
+      "resilient",
+      "thoughtful"
+    ],
+    "communication_style": "direct",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "reduce burnout symptoms",
+    "improve work-life balance",
+    "develop more effective stress management techniques"
+  ],
+  "barriers": [
+    "time constraints due to work",
+    "lack of support resources at work",
+    "intense workloads"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "stress management articles",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Having worked in healthcare for over eight years, she has recently been feeling the strain of her responsibilities, especially during peak times in the pandemic. While she finds fulfillment in helping others, the intense demands of her job have started to take a toll on her mental health, prompting her to seek support.",
+  "archetype": "burnout_healthcare",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015800_2b305c",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

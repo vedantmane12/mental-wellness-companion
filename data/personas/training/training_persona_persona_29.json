@@ -1,0 +1,74 @@
+{
+  "id": "persona_29",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "chronic pain management",
+      "anxiety",
+      "depression"
+    ],
+    "severity": "moderate",
+    "duration": "5 years",
+    "triggers": [
+      "stressful work deadlines",
+      "lack of sleep",
+      "overexertion"
+    ],
+    "coping_mechanisms": [
+      "mindfulness meditation",
+      "art therapy",
+      "light exercise"
+    ],
+    "therapy_history": "Cognitive Behavioral Therapy (CBT) for 1 year, currently in therapy focused on chronic illness coping strategies",
+    "medication": "yes"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "sensitive",
+      "resilient",
+      "thoughtful",
+      "introverted"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "improve pain management techniques",
+    "reduce anxiety levels",
+    "develop a consistent self-care routine"
+  ],
+  "barriers": [
+    "frequent pain flare-ups",
+    "time constraints due to work",
+    "difficulty staying motivated"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "educational articles",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After being diagnosed with fibromyalgia at 27, Maria has been navigating the complexities of chronic illness while working as a graphic designer. She often uses her art as an emotional outlet and seeks to connect with others who understand her experiences.",
+  "archetype": "chronic_illness",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015706_677fc5",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.45,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

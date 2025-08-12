@@ -1,0 +1,74 @@
+{
+  "id": "persona_97",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "high school teacher",
+    "education": "Master's degree in Education",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "communication issues in relationships",
+      "fear of intimacy",
+      "navigating conflicts with partners"
+    ],
+    "severity": "moderate",
+    "duration": "2 years",
+    "triggers": [
+      "stressful work environment",
+      "significant life changes",
+      "lack of support from friends"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "mindfulness meditation",
+      "talking to close friends"
+    ],
+    "therapy_history": "attended therapy for 6 months, but had to stop due to time constraints; interested in resuming",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "thoughtful",
+      "introverted",
+      "perfectionistic",
+      "sensitive"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "improve communication skills in relationships",
+    "increase self-confidence",
+    "learn to set healthy boundaries"
+  ],
+  "barriers": [
+    "time constraints due to work",
+    "fear of vulnerability",
+    "lack of social support"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "relationship advice articles",
+      "interactive exercises"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Having grown up in a household where emotions were often suppressed, she struggles to express her feelings openly with partners. As a devoted teacher, she often prioritizes her students' needs over her own, leading to personal relationship challenges.",
+  "archetype": "relationship_struggles",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020612_a075eb",
+  "initial_emotional_state": {
+    "anxiety": 0.3,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

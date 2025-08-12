@@ -1,0 +1,74 @@
+{
+  "id": "persona_77",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "marketing manager",
+    "education": "Bachelor's degree in Communications",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "relationship anxiety",
+      "communication issues",
+      "fear of abandonment"
+    ],
+    "severity": "moderate",
+    "duration": "4 years",
+    "triggers": [
+      "conflict in relationships",
+      "discussions about the future",
+      "lack of communication"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "talking to friends",
+      "going for walks"
+    ],
+    "therapy_history": "attended therapy for 6 months a year ago, found it helpful but stopped due to financial constraints",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "anxious",
+      "thoughtful",
+      "creative",
+      "self-critical"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "improve communication in relationships",
+    "reduce anxiety during conflicts",
+    "build self-esteem"
+  ],
+  "barriers": [
+    "fear of vulnerability",
+    "busy work schedule",
+    "financial constraints for therapy"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles",
+      "guided meditations",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Growing up in a close-knit family, she often witnessed her parents struggle with communication, which has deeply influenced her relationships. Now, as a young professional, she grapples with fears of abandonment and finds herself avoiding conflicts altogether, leading to unresolved issues.",
+  "archetype": "relationship_struggles",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020324_fbc810",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

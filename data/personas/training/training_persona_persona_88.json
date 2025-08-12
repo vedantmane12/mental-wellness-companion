@@ -1,0 +1,74 @@
+{
+  "id": "persona_88",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "marketing manager",
+    "education": "master's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "self-doubt",
+      "career uncertainty"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "work deadlines",
+      "negative feedback",
+      "comparison with peers"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "exercise",
+      "mindfulness meditation"
+    ],
+    "therapy_history": "has attended therapy for 3 months, focused on career-related issues",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "ambitious",
+      "thoughtful",
+      "empathetic",
+      "perfectionistic",
+      "open-minded"
+    ],
+    "communication_style": "direct",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "build confidence in career decisions",
+    "manage anxiety more effectively",
+    "develop a clearer career path"
+  ],
+  "barriers": [
+    "fear of failure",
+    "lack of mentorship",
+    "overwhelm from job responsibilities"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "audio guided meditations",
+      "career coaching articles",
+      "interactive workshops"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After completing her master's degree, Samantha worked her way up in marketing but now finds herself uncertain about her next career move. She's feeling the pressure of constant performance expectations and struggles with anxiety and self-doubt, especially when comparing herself to others in similar roles.",
+  "archetype": "career_transition",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020449_cc764e",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

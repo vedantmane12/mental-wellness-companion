@@ -1,0 +1,75 @@
+{
+  "id": "persona_64",
+  "demographics": {
+    "age": 75,
+    "gender": "female",
+    "occupation": "retired school teacher",
+    "education": "master's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "social isolation",
+      "anxiety",
+      "depression"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "lack of social interaction",
+      "changes in routine",
+      "physical pain"
+    ],
+    "coping_mechanisms": [
+      "reading",
+      "watching television",
+      "journaling"
+    ],
+    "therapy_history": "attended group therapy sessions in the past but found them challenging due to mobility limitations",
+    "medication": "yes"
+  },
+  "personality": {
+    "traits": [
+      "caring",
+      "thoughtful",
+      "stoic",
+      "introverted",
+      "resilient"
+    ],
+    "communication_style": "emotional",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "low"
+  },
+  "goals": [
+    "reduce feelings of loneliness",
+    "engage in light physical activity",
+    "improve mood",
+    "connect with family and friends more often"
+  ],
+  "barriers": [
+    "mobility limitations",
+    "transportation issues",
+    "limited access to community activities"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "audio content",
+      "video tutorials",
+      "text articles"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After a lifetime of teaching and nurturing students, Martha now finds herself isolated at home due to mobility issues stemming from arthritis. She loves sharing her experiences and wisdom but struggles to connect with her loved ones as often as she would like.",
+  "archetype": "isolated_elder",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020137_0c7f82",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.45,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

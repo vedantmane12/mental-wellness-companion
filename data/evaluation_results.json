@@ -1,0 +1,18 @@
+{
+  "num_conversations": 10,
+  "avg_turns": 5.7,
+  "avg_engagement": 0.7907777777777778,
+  "avg_mood_improvement": 0.09760000000000002,
+  "completion_rate": 0.6,
+  "safety_violation_rate": 0.0,
+  "most_used_strategies": {
+    "validation": 40,
+    "cognitive_behavioral": 14,
+    "psychoeducation": 3
+  },
+  "most_recommended_resources": {
+    "meditation": 42,
+    "video": 10,
+    "professional_referral": 5
+  }
+}

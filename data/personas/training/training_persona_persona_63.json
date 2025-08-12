@@ -1,0 +1,74 @@
+{
+  "id": "persona_63",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "marketing manager",
+    "education": "Bachelor's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "adjustment difficulties",
+      "anxiety",
+      "postpartum mood changes"
+    ],
+    "severity": "moderate",
+    "duration": "3 months",
+    "triggers": [
+      "lack of sleep",
+      "feeling overwhelmed",
+      "social isolation"
+    ],
+    "coping_mechanisms": [
+      "mindfulness exercises",
+      "short walks",
+      "talking to friends"
+    ],
+    "therapy_history": "attended therapy for anxiety prior to pregnancy",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "organized",
+      "overthinking",
+      "resilient",
+      "inquisitive"
+    ],
+    "communication_style": "direct",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "develop a routine that works for both me and my baby",
+    "reduce feelings of anxiety",
+    "improve sleep quality"
+  ],
+  "barriers": [
+    "time constraints due to childcare",
+    "fear of judgment from others",
+    "difficulty finding support groups"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles on parenting",
+      "guided meditations",
+      "video support groups"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After recently becoming a mother for the first time, Sarah has struggled to adjust to her new role while managing her pre-existing anxiety. She finds herself feeling isolated and overwhelmed, often questioning her abilities as a parent.",
+  "archetype": "overwhelmed_parent",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020126_0a9f2b",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

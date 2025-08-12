@@ -1,0 +1,74 @@
+{
+  "id": "persona_23",
+  "demographics": {
+    "age": 35,
+    "gender": "female",
+    "occupation": "nurse",
+    "education": "Bachelor's degree in Nursing",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "stress management",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "overwhelming workload",
+      "lack of childcare support",
+      "financial concerns"
+    ],
+    "coping_mechanisms": [
+      "exercise",
+      "journaling",
+      "meditation"
+    ],
+    "therapy_history": "attended therapy for 3 months last year; found it helpful but could not continue due to time constraints",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "resilient",
+      "anxious",
+      "determined",
+      "pragmatic"
+    ],
+    "communication_style": "direct",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "reduce anxiety",
+    "establish a consistent self-care routine",
+    "find more time for family"
+  ],
+  "barriers": [
+    "lack of time",
+    "difficulty in prioritizing self-care",
+    "financial constraints"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "informative articles",
+      "community support forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "A single mother of two, Maria works as a nurse in a local hospital. Between her demanding job and caring for her children, she often feels overwhelmed. After a tough year that included job changes and parenting challenges, she is looking for effective mental wellness resources to help her manage stress while being present for her kids.",
+  "archetype": "overwhelmed_parent",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015618_774476",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

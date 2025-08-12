@@ -1,0 +1,74 @@
+{
+  "id": "persona_74",
+  "demographics": {
+    "age": 72,
+    "gender": "female",
+    "occupation": "retired school teacher",
+    "education": "Bachelor's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "loneliness",
+      "grief",
+      "anxiety"
+    ],
+    "severity": "moderate",
+    "duration": "2 years since spouse's passing",
+    "triggers": [
+      "social gatherings",
+      "anniversaries",
+      "holidays"
+    ],
+    "coping_mechanisms": [
+      "reading",
+      "gardening",
+      "occasional yoga"
+    ],
+    "therapy_history": "attended group therapy once a month for 6 months after husband passed away",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "thoughtful",
+      "introverted",
+      "observant",
+      "resilient"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "connect with others",
+    "develop new hobbies",
+    "improve emotional well-being"
+  ],
+  "barriers": [
+    "fear of judgment",
+    "limited social interaction",
+    "lack of transportation"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "community forums",
+      "educational articles"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After losing her husband two years ago, Jane has been struggling with feelings of loneliness and grief. She lives alone in a suburban area, where her social circle has diminished as friends have also faced life changes. Jane cherishes the memories of her teaching career and enjoys gardening, but often finds it challenging to engage with others.",
+  "archetype": "isolated_elder",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020259_0a4c77",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

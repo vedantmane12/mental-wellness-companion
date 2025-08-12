@@ -1,0 +1,74 @@
+{
+  "id": "persona_68",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "Marketing Manager",
+    "education": "Master's Degree in Business Administration",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety about job stability",
+      "stress from career transition",
+      "self-doubt about skills"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "job market uncertainty",
+      "performance reviews",
+      "comparison with peers"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "exercise",
+      "mindfulness meditation"
+    ],
+    "therapy_history": "attended counseling for 3 months during a previous job transition",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "ambitious",
+      "detail-oriented",
+      "empathetic",
+      "open-minded",
+      "somewhat introverted"
+    ],
+    "communication_style": "direct",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "build confidence in my professional abilities",
+    "navigate the job market effectively",
+    "reduce anxiety related to career transitions"
+  ],
+  "barriers": [
+    "fear of failure",
+    "lack of professional network in new field",
+    "limited time for self-care"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "podcasts",
+      "articles",
+      "interactive exercises"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After 10 years in the marketing field, she is exploring a career shift into project management. The uncertainty surrounding this transition is causing her anxiety, and she seeks support to help boost her confidence and resilience in facing new challenges.",
+  "archetype": "career_transition",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020210_2e2721",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

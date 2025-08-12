@@ -1,0 +1,74 @@
+{
+  "id": "persona_78",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "marketing manager",
+    "education": "master's degree in business administration",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety about career changes",
+      "self-doubt",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "upcoming job interviews",
+      "uncertainty about future employment",
+      "comparison to peers"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "mindfulness meditation",
+      "exercise"
+    ],
+    "therapy_history": "has attended therapy in the past for anxiety but discontinued after feeling better",
+    "medication": "no"
+  },
+  "personality": {
+    "traits": [
+      "ambitious",
+      "empathetic",
+      "analytical",
+      "introverted",
+      "perfectionistic"
+    ],
+    "communication_style": "direct",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "gain confidence in job applications",
+    "establish a healthier work-life balance",
+    "explore new career paths"
+  ],
+  "barriers": [
+    "fear of failure",
+    "limited professional network in desired field",
+    "financial concerns about transitioning jobs"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "podcasts",
+      "articles",
+      "guided meditations"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After working in a stable but unfulfilling marketing role for over a decade, she's decided to pursue a long-held dream of entering the nonprofit sector. However, she struggles with anxiety surrounding the transition and often doubts her skills in a new environment.",
+  "archetype": "career_transition",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020332_b6d5d7",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

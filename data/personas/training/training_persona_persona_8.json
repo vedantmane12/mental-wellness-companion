@@ -1,0 +1,74 @@
+{
+  "id": "persona_8",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "marketing executive",
+    "education": "Master's degree in Business Administration",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety about job security",
+      "fear of failure in new career",
+      "imposter syndrome"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "heavy workload",
+      "lack of support from management",
+      "comparison to peers"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "yoga",
+      "talking with friends"
+    ],
+    "therapy_history": "attended monthly therapy sessions for 1 year, currently seeking new therapist",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "ambitious",
+      "thoughtful",
+      "anxiety-prone",
+      "open-minded",
+      "determined"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "develop confidence in new career path",
+    "manage anxiety effectively",
+    "build a supportive professional network"
+  ],
+  "barriers": [
+    "limited financial resources during transition",
+    "feeling overwhelmed by job expectations",
+    "lack of mentorship opportunities"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "informative articles",
+      "video webinars"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After working in a stable yet unfulfilling job in finance for several years, she decided to pivot into marketing, which she is passionate about. However, the transition has brought about considerable anxiety and self-doubt as she navigates a new industry.",
+  "archetype": "career_transition",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015428_426f62",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

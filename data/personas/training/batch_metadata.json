@@ -1,0 +1,25 @@
+{
+  "batch_size": 100,
+  "prefix": "training",
+  "generated_at": "timestamp_20250811_020625_1d1d03",
+  "archetypes": [
+    "anxious_professional",
+    "depressed_adult",
+    "isolated_elder",
+    "overwhelmed_parent",
+    "grieving_individual",
+    "relationship_struggles",
+    "stressed_student",
+    "chronic_illness",
+    "career_transition",
+    "burnout_healthcare"
+  ],
+  "age_range": [
+    20,
+    75
+  ],
+  "severity_distribution": {
+    "moderate": 98,
+    "severe": 2
+  }
+}

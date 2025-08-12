@@ -1,0 +1,75 @@
+{
+  "id": "persona_85",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree in Fine Arts",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "prolonged sadness",
+      "difficulty concentrating",
+      "social withdrawal"
+    ],
+    "severity": "moderate",
+    "duration": "seven months",
+    "triggers": [
+      "anniversaries of loss",
+      "family gatherings",
+      "unexpected reminders"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "art therapy",
+      "talking with close friends"
+    ],
+    "therapy_history": "attended group therapy for three months, seeking individual therapy now",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "empathetic",
+      "sensitive",
+      "introverted",
+      "thoughtful"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "navigate grief healthily",
+    "reconnect with friends",
+    "establish a routine",
+    "find joy in creativity again"
+  ],
+  "barriers": [
+    "fear of burdening others",
+    "difficulty reaching out",
+    "overwhelmed by emotions"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "journaling prompts",
+      "art therapy exercises"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After losing her younger brother unexpectedly in a car accident, she has struggled to cope with the deep sense of loss. As a creative person, she often finds solace in her art, but the grief has made it challenging to express herself and connect with others.",
+  "archetype": "grieving_individual",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020427_c5afb1",
+  "initial_emotional_state": {
+    "anxiety": 0.3,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

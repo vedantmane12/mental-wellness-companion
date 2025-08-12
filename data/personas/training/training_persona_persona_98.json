@@ -1,0 +1,74 @@
+{
+  "id": "persona_98",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "marketing specialist",
+    "education": "Bachelor's degree in Communication",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety about career choices",
+      "fear of failure",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "job uncertainty",
+      "comparison with peers",
+      "overworking"
+    ],
+    "coping_mechanisms": [
+      "meditation",
+      "journaling",
+      "exercise"
+    ],
+    "therapy_history": "attended therapy for 3 months previously, found it helpful",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "driven",
+      "curious",
+      "perfectionist",
+      "anxious"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "gain clarity on career direction",
+    "develop healthier work-life boundaries",
+    "reduce anxiety levels"
+  ],
+  "barriers": [
+    "self-doubt",
+    "lack of mentorship",
+    "fear of making wrong decisions"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "informative articles",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After five years in a marketing role, she feels unfulfilled and unsure about her career path. A recent corporate restructuring has heightened her anxiety about job security and her future. She seeks a supportive community and tools to help navigate her transition.",
+  "archetype": "career_transition",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020618_a95c12",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

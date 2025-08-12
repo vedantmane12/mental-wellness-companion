@@ -1,0 +1,74 @@
+{
+  "id": "persona_66",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "registered nurse",
+    "education": "Bachelor's degree in Nursing",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "burnout",
+      "anxiety",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "high patient turnover",
+      "staff shortages",
+      "constant overtime"
+    ],
+    "coping_mechanisms": [
+      "yoga",
+      "journaling",
+      "weekend outings"
+    ],
+    "therapy_history": "attended therapy occasionally, primarily during stressful periods",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "resilient",
+      "organized",
+      "perfectionist",
+      "introverted"
+    ],
+    "communication_style": "direct",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "reduce anxiety",
+    "improve self-care routines",
+    "establish work-life boundaries"
+  ],
+  "barriers": [
+    "time constraints",
+    "lack of support at work",
+    "feeling overwhelmed"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "self-help articles",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "As a dedicated nurse working in a high-pressure urban hospital, she often finds herself stretched thin and emotionally drained, leading to feelings of burnout. Despite her commitment to patient care, she's realized the importance of prioritizing her mental health and is seeking tools to help manage stress more effectively.",
+  "archetype": "burnout_healthcare",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020154_6b58a2",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

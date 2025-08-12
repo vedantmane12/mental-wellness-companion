@@ -1,0 +1,74 @@
+{
+  "id": "persona_93",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "elementary school teacher",
+    "education": "Bachelor's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "stress management",
+      "parenting challenges"
+    ],
+    "severity": "moderate",
+    "duration": "3 years",
+    "triggers": [
+      "overwhelming school demands",
+      "lack of family support",
+      "unexpected behavioral issues from child"
+    ],
+    "coping_mechanisms": [
+      "deep breathing exercises",
+      "journaling",
+      "weekly yoga classes"
+    ],
+    "therapy_history": "attended cognitive behavioral therapy sessions for 6 months, currently not in therapy",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "resilient",
+      "organized",
+      "anxious",
+      "detail-oriented"
+    ],
+    "communication_style": "emotional",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "reduce anxiety levels",
+    "improve communication with my child",
+    "find a supportive community"
+  ],
+  "barriers": [
+    "limited time for self-care",
+    "financial concerns regarding therapy",
+    "fear of judgment from others"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "audio meditations",
+      "community forums",
+      "interactive workshops"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "As a dedicated parent of an autistic child, she often feels overwhelmed by the daily demands of parenting and her teaching job. Seeking balance in her life, she is eager to connect with others who understand her struggles and share coping strategies.",
+  "archetype": "overwhelmed_parent",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020539_4e653b",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

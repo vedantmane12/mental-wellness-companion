@@ -1,0 +1,74 @@
+{
+  "id": "persona_73",
+  "demographics": {
+    "age": 37,
+    "gender": "female",
+    "occupation": "elementary school teacher",
+    "education": "Bachelor's degree in Education",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "stress management",
+      "self-care"
+    ],
+    "severity": "moderate",
+    "duration": "4 years",
+    "triggers": [
+      "unexpected changes in routine",
+      "high demands at work",
+      "social events"
+    ],
+    "coping_mechanisms": [
+      "mindfulness meditation",
+      "deep breathing exercises",
+      "journaling"
+    ],
+    "therapy_history": "has attended therapy sessions sporadically over the past two years",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "resilient",
+      "overwhelmed",
+      "dedicated",
+      "optimistic"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "improve stress management skills",
+    "develop better self-care routines",
+    "increase social support"
+  ],
+  "barriers": [
+    "limited time due to parenting responsibilities",
+    "feeling guilty for prioritizing self-care",
+    "financial constraints"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on parenting special needs children",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "As a mother of a 9-year-old boy with autism, she often feels overwhelmed balancing her teaching job and parenting responsibilities. While she is passionate about her work and dedicated to her son, the constant demands leave her feeling anxious and exhausted. She is looking for ways to prioritize her mental health while supporting her child's needs.",
+  "archetype": "overwhelmed_parent",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020250_61aba6",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

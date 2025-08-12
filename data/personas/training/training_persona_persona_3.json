@@ -1,0 +1,77 @@
+{
+  "id": "persona_3",
+  "demographics": {
+    "age": 35,
+    "gender": "female",
+    "occupation": "customer service representative",
+    "education": "associate degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "stress management",
+      "anxiety",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "2 years",
+    "triggers": [
+      "overwhelming workload",
+      "lack of support",
+      "childcare responsibilities"
+    ],
+    "coping_mechanisms": [
+      "deep breathing exercises",
+      "journaling",
+      "taking walks"
+    ],
+    "therapy_history": "Has attended individual therapy sessions for a year and found them helpful.",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "resilient",
+      "organised",
+      "anxious",
+      "determined"
+    ],
+    "communication_style": "direct",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "Improve self-care routines",
+    "Reduce anxiety levels",
+    "Establish a healthier work-life balance",
+    "Enhance parenting strategies"
+  ],
+  "barriers": [
+    "Lack of free time",
+    "Financial limitations for therapy",
+    "Difficulty prioritizing self-care",
+    "Feeling guilty about spending time on personal needs"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "educational articles about parenting",
+      "stress management tools",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "As a single mother of two young children, Sarah balances her customer service job with parenting while striving to provide a stable home environment. She often feels overwhelmed with her responsibilities and is eager to find strategies to manage her mental health while being present for her kids.",
+  "archetype": "overwhelmed_parent",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015355_7601be",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

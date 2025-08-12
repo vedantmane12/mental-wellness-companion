@@ -1,0 +1,76 @@
+{
+  "id": "persona_50",
+  "demographics": {
+    "age": 28,
+    "gender": "female",
+    "occupation": "marketing coordinator",
+    "education": "Bachelor's degree in Communications",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "imposter syndrome",
+      "self-doubt"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "work deadlines",
+      "performance reviews",
+      "social situations"
+    ],
+    "coping_mechanisms": [
+      "mindfulness meditation",
+      "journaling",
+      "talking to friends"
+    ],
+    "therapy_history": "attended six sessions of cognitive-behavioral therapy in the past year, found it helpful but not consistent",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "perfectionistic",
+      "empathetic",
+      "introverted",
+      "analytical",
+      "self-critical"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "reduce anxiety levels",
+    "build self-confidence",
+    "manage imposter syndrome",
+    "develop healthier work-life balance"
+  ],
+  "barriers": [
+    "fear of judgment",
+    "lack of time",
+    "feeling overwhelmed by responsibilities"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles",
+      "guided meditations",
+      "community forums",
+      "workshops"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Maria grew up in a multicultural household, where she was often compared to her high-achieving siblings. After landing her first full-time job in a fast-paced marketing agency, she felt overwhelmed by the need to prove herself, triggering her imposter syndrome. She seeks help to navigate her anxiety and build a strong sense of self-worth.",
+  "archetype": "anxious_professional",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015933_de8925",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

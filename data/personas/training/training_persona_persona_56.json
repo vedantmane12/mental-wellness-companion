@@ -1,0 +1,76 @@
+{
+  "id": "persona_56",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "Registered Nurse",
+    "education": "Bachelor's Degree in Nursing",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "burnout",
+      "anxiety",
+      "depression"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "heavy patient load",
+      "lack of support from management",
+      "long shifts",
+      "emotional toll of patient care"
+    ],
+    "coping_mechanisms": [
+      "meditation",
+      "yoga",
+      "journaling"
+    ],
+    "therapy_history": "attended therapy sessions once a week for three months, currently not in therapy",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "resilient",
+      "detail-oriented",
+      "overly responsible",
+      "anxious"
+    ],
+    "communication_style": "empathetic",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "manage stress more effectively",
+    "improve work-life balance",
+    "enhance coping skills",
+    "reduce feelings of overwhelm"
+  ],
+  "barriers": [
+    "time constraints due to work schedule",
+    "difficulty accessing mental health resources",
+    "feeling guilty about prioritizing self-care"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "educational articles on burnout",
+      "community support forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "As a dedicated nurse in a bustling city hospital, she frequently experiences the emotional and physical toll of her job. Despite her strong desire to help others, she's been feeling increasingly burnt out and struggles to find time for herself in her demanding schedule.",
+  "archetype": "burnout_healthcare",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020027_0c8427",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.45,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

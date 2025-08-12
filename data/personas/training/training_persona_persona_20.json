@@ -1,0 +1,74 @@
+{
+  "id": "persona_20",
+  "demographics": {
+    "age": 29,
+    "gender": "female",
+    "occupation": "Marketing Specialist",
+    "education": "Bachelor's Degree in Communications",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "imposter syndrome",
+      "performance anxiety"
+    ],
+    "severity": "moderate",
+    "duration": "2 years",
+    "triggers": [
+      "work deadlines",
+      "public speaking",
+      "feedback from managers"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "mindfulness meditation",
+      "talking to friends"
+    ],
+    "therapy_history": "attended cognitive-behavioral therapy for 6 months a year ago",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "perfectionistic",
+      "empathetic",
+      "introverted",
+      "self-critical",
+      "hardworking"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "reduce anxiety levels",
+    "build self-confidence",
+    "develop effective stress management techniques"
+  ],
+  "barriers": [
+    "fear of judgment",
+    "lack of support at work",
+    "difficulty in asking for help"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on mental health",
+      "video tutorials on coping strategies"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Growing up in a high-achieving family, she always felt the pressure to succeed. After landing her dream job, she struggles with feelings of inadequacy and fears that she will be exposed as a fraud, despite her strong performance record.",
+  "archetype": "anxious_professional",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015600_20a832",
+  "initial_emotional_state": {
+    "anxiety": 0.675,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

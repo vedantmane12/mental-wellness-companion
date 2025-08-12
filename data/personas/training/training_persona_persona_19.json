@@ -1,0 +1,74 @@
+{
+  "id": "persona_19",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "depression",
+      "chronic pain management"
+    ],
+    "severity": "moderate",
+    "duration": "5 years",
+    "triggers": [
+      "stressful work deadlines",
+      "lack of sleep",
+      "social situations"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "art therapy",
+      "meditation"
+    ],
+    "therapy_history": "Has attended therapy intermittently over the past 3 years, with a focus on cognitive-behavioral therapy.",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "empathetic",
+      "resilient",
+      "introverted",
+      "reflective"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "increase coping skills for anxiety",
+    "develop a consistent self-care routine",
+    "improve social interactions"
+  ],
+  "barriers": [
+    "fluctuating energy levels due to chronic pain",
+    "fear of stigma in discussing mental health",
+    "difficulty maintaining motivation"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "interactive journaling prompts",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Jessica is a 32-year-old graphic designer living in a bustling city. She was diagnosed with fibromyalgia several years ago, which has heightened her anxiety and occasionally leads to depressive episodes. Despite her challenges, she is passionate about her work and seeks to find balance in her life through creativity and mindfulness.",
+  "archetype": "chronic_illness",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015554_14b2cf",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.45,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

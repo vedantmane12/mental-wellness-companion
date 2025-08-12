@@ -1,0 +1,74 @@
+{
+  "id": "persona_17",
+  "demographics": {
+    "age": 29,
+    "gender": "female",
+    "occupation": "marketing specialist",
+    "education": "Bachelor's degree in Communications",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "relationship anxiety",
+      "communication issues",
+      "fear of abandonment"
+    ],
+    "severity": "moderate",
+    "duration": "2 years",
+    "triggers": [
+      "conflict during discussions",
+      "social media comparisons",
+      "lack of communication"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "talking to friends",
+      "mindfulness exercises"
+    ],
+    "therapy_history": "Has attended therapy sessions for 6 months, focusing on cognitive-behavioral techniques.",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "sensitive",
+      "overthinker",
+      "determined",
+      "reliable"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "improve communication skills in relationships",
+    "reduce anxiety around conflicts",
+    "increase self-esteem"
+  ],
+  "barriers": [
+    "fear of vulnerability",
+    "difficulty expressing feelings",
+    "busy work schedule"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles",
+      "guided meditations",
+      "interactive exercises"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Growing up in a close-knit family, she often felt the pressure to maintain harmonious relationships. After several difficult breakups, she started to struggle with anxiety and fears of being alone, seeking to navigate her emotions through therapy and self-help resources.",
+  "archetype": "relationship_struggles",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015539_778650",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

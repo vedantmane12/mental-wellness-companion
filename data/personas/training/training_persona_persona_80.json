@@ -1,0 +1,72 @@
+{
+  "id": "persona_80",
+  "demographics": {
+    "age": 35,
+    "gender": "female",
+    "occupation": "Marketing Manager",
+    "education": "Master's Degree in Business Administration",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "stress management",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "over 2 years",
+    "triggers": [
+      "tight deadlines",
+      "conflict with colleagues",
+      "lack of personal time"
+    ],
+    "coping_mechanisms": [
+      "exercise",
+      "mindfulness meditation",
+      "journaling"
+    ],
+    "therapy_history": "Has attended therapy sessions intermittently for the past year.",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "perfectionist",
+      "empathetic",
+      "driven",
+      "introverted",
+      "detail-oriented"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "reduce anxiety levels",
+    "establish healthier boundaries at work",
+    "increase overall happiness and satisfaction"
+  ],
+  "barriers": [
+    "time constraints due to work",
+    "difficulty prioritizing personal self-care",
+    "fear of being perceived as less dedicated at work"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditation, articles on stress management, interactive tools for time management"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After dedicating a decade to climbing the corporate ladder, she now finds herself overwhelmed with responsibilities at work, often sacrificing personal time and self-care. Despite outward success, she struggles with anxiety and feels a growing disconnect between her professional and personal life.",
+  "archetype": "anxious_professional",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020348_86083f",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

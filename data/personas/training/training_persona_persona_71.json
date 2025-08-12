@@ -1,0 +1,81 @@
+{
+  "id": "persona_71",
+  "demographics": {
+    "age": 24,
+    "gender": "female",
+    "occupation": "medical student",
+    "education": "MD candidate",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "burnout",
+      "anxiety",
+      "depression",
+      "stress management"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "heavy workload",
+      "lack of sleep",
+      "academic pressure",
+      "family expectations"
+    ],
+    "coping_mechanisms": [
+      "exercise",
+      "journaling",
+      "breathing exercises",
+      "talking to friends"
+    ],
+    "therapy_history": "attended therapy sessions for 3 months last year",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "perfectionistic",
+      "anxious",
+      "driven",
+      "intelligent",
+      "thoughtful"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "reduce stress levels",
+    "establish a regular self-care routine",
+    "improve sleep quality",
+    "develop time management skills"
+  ],
+  "barriers": [
+    "limited time due to studies",
+    "perfectionism preventing relaxation",
+    "difficulty prioritizing self-care",
+    "fear of falling behind peers"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "time management tips",
+      "stress relief activities",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Maria grew up in a family of healthcare professionals, which fueled her ambition to pursue medicine. However, the intense pressure from her studies has led to feelings of isolation and burnout. She struggles to balance her responsibilities and maintain her mental health while navigating the rigorous demands of medical school.",
+  "archetype": "stressed_student",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020234_619504",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.45,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

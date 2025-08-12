@@ -1,0 +1,76 @@
+{
+  "id": "persona_1",
+  "demographics": {
+    "age": 25,
+    "gender": "female",
+    "occupation": "graduate student",
+    "education": "Master's program in Psychology",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "research anxiety",
+      "imposter syndrome",
+      "time management",
+      "sleep disturbances"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "deadlines",
+      "peer comparisons",
+      "lack of feedback from advisors"
+    ],
+    "coping_mechanisms": [
+      "deep breathing exercises",
+      "journaling",
+      "talking to friends"
+    ],
+    "therapy_history": "attended cognitive behavioral therapy for 3 months, found it helpful but had to put it on hold due to scheduling conflicts",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "anxious",
+      "thoughtful",
+      "perfectionist",
+      "empathetic",
+      "detail-oriented"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "reduce research anxiety",
+    "develop better time management skills",
+    "increase resilience against peer pressure",
+    "improve sleep quality"
+  ],
+  "barriers": [
+    "overseeing academic workload",
+    "feeling overwhelmed by responsibilities",
+    "difficulty asking for help"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "podcasts",
+      "guided meditation",
+      "articles on academic stress management"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Raised in a close-knit family in a suburban area, she excelled academically but always felt the pressure to perform. Now in a Master's program, she struggles with self-doubt and the urgency of completing her research, leading to significant anxiety.",
+  "archetype": "stressed_student",
+  "batch_prefix": "test",
+  "generated_at": "timestamp_20250811_003743_acbd7c",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

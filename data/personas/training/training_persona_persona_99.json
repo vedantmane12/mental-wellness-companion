@@ -1,0 +1,75 @@
+{
+  "id": "persona_99",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "depression",
+      "chronic pain"
+    ],
+    "severity": "moderate",
+    "duration": "5 years",
+    "triggers": [
+      "stressful work deadlines",
+      "lack of sleep",
+      "social situations"
+    ],
+    "coping_mechanisms": [
+      "mindfulness meditation",
+      "art therapy",
+      "journaling"
+    ],
+    "therapy_history": "has attended cognitive behavioral therapy (CBT) sessions in the past for 6 months",
+    "medication": "yes"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "empathetic",
+      "introverted",
+      "persistent",
+      "sensitive"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "manage anxiety levels",
+    "find better coping strategies for chronic pain",
+    "increase social interactions",
+    "improve sleep quality"
+  ],
+  "barriers": [
+    "inconsistent access to therapy",
+    "financial constraints",
+    "fear of social judgment"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on chronic illness management",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After being diagnosed with fibromyalgia in her late 20s, she struggled to balance her creative career and mental health challenges. Seeking to better understand her condition, she has learned to express herself through art but often feels overwhelmed by anxiety and social obligations.",
+  "archetype": "chronic_illness",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020625_d10159",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.45,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

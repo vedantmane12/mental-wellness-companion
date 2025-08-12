@@ -1,0 +1,79 @@
+{
+  "id": "persona_11",
+  "demographics": {
+    "age": 25,
+    "gender": "female",
+    "occupation": "medical student",
+    "education": "Master's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "stress",
+      "anxiety",
+      "burnout",
+      "insomnia"
+    ],
+    "severity": "severe",
+    "duration": "6 months",
+    "triggers": [
+      "heavy coursework",
+      "clinical rotations",
+      "lack of sleep",
+      "performance pressure"
+    ],
+    "coping_mechanisms": [
+      "exercise",
+      "journaling",
+      "meditation",
+      "socializing with friends"
+    ],
+    "therapy_history": "attended counseling sessions sporadically over the past year",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "perfectionistic",
+      "empathetic",
+      "driven",
+      "self-critical",
+      "anxious"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "reduce stress levels",
+    "improve sleep quality",
+    "manage anxiety effectively",
+    "find work-life balance"
+  ],
+  "barriers": [
+    "time constraints due to studies",
+    "fear of judgment from peers",
+    "lack of support from family",
+    "difficulty prioritizing self-care"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "video tutorials",
+      "guided meditations",
+      "articles on stress management"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Growing up in a family of healthcare professionals, she always felt the pressure to excel. Currently facing the rigors of medical school, she has started to feel overwhelmed and burnt out, struggling to keep up with her coursework and maintain her mental well-being amidst the demands of her training.",
+  "archetype": "stressed_student",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015453_0c883e",
+  "initial_emotional_state": {
+    "anxiety": 0.6,
+    "depression": 0.3,
+    "stress": 0.6,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

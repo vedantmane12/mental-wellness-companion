@@ -1,0 +1,75 @@
+{
+  "id": "persona_69",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "depression",
+      "chronic pain management"
+    ],
+    "severity": "moderate",
+    "duration": "5 years",
+    "triggers": [
+      "stressful work deadlines",
+      "lack of sleep",
+      "social situations"
+    ],
+    "coping_mechanisms": [
+      "mindfulness meditation",
+      "art therapy",
+      "journaling"
+    ],
+    "therapy_history": "Currently seeing a therapist monthly; previously attended group therapy for 6 months.",
+    "medication": "yes"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "sensitive",
+      "resilient",
+      "thoughtful",
+      "introverted"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "develop better coping strategies for anxiety",
+    "improve sleep quality",
+    "manage chronic pain effectively",
+    "enhance social interactions"
+  ],
+  "barriers": [
+    "fear of stigma from peers",
+    "limited energy due to chronic illness",
+    "difficulty committing to routines"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "video content",
+      "interactive activities",
+      "articles on mindfulness and pain management"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After being diagnosed with fibromyalgia at 27, she has struggled to balance her passion for design with the challenges of chronic pain and anxiety. She seeks to understand her mental health better while maintaining her creativity and designing work.",
+  "archetype": "chronic_illness",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020216_a83b7a",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.45,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

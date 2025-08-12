@@ -1,0 +1,74 @@
+{
+  "id": "persona_92",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "seasonal depression",
+      "low energy",
+      "mood swings"
+    ],
+    "severity": "moderate",
+    "duration": "5 years",
+    "triggers": [
+      "shorter daylight hours",
+      "cold weather",
+      "holiday stress"
+    ],
+    "coping_mechanisms": [
+      "art therapy",
+      "light therapy lamps",
+      "mindfulness meditation"
+    ],
+    "therapy_history": "has seen a therapist intermittently, mainly during winter months",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "sensitive",
+      "thoughtful",
+      "introverted",
+      "empathetic"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "improve mood during winter",
+    "maintain a consistent self-care routine",
+    "engage in more social activities"
+  ],
+  "barriers": [
+    "lack of motivation on low-energy days",
+    "difficulty sticking to routines",
+    "feeling overwhelmed by social obligations"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "visual art exercises",
+      "seasonal wellness tips"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Having grown up in a region with long winters, Sarah has always struggled with seasonal depression. As a graphic designer, she often finds solace in her art but battles feelings of isolation as the days grow darker. She is eager to find new ways to manage her mental health, especially during the colder months.",
+  "archetype": "depressed_adult",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020530_264d28",
+  "initial_emotional_state": {
+    "anxiety": 0.3,
+    "depression": 0.45,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

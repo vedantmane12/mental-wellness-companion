@@ -1,0 +1,76 @@
+{
+  "id": "persona_61",
+  "demographics": {
+    "age": 24,
+    "gender": "female",
+    "occupation": "medical student",
+    "education": "Bachelor's degree in Biology, currently pursuing MD",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "stress",
+      "burnout",
+      "anxiety"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "heavy workload",
+      "lack of sleep",
+      "strict deadlines",
+      "family expectations"
+    ],
+    "coping_mechanisms": [
+      "exercise",
+      "journaling",
+      "short meditation breaks"
+    ],
+    "therapy_history": "Has attended a few sessions with a counselor, but has not found a suitable therapist yet.",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "perfectionistic",
+      "empathetic",
+      "determined",
+      "anxious",
+      "introverted"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "manage stress better",
+    "prevent burnout",
+    "improve work-life balance",
+    "establish a regular self-care routine"
+  ],
+  "barriers": [
+    "time constraints",
+    "social isolation",
+    "financial stress from tuition"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "videos",
+      "audio-guided meditations",
+      "interactive tools"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Raised in a small town, she always aspired to become a doctor to help others. The rigorous demands of medical school have left her feeling overwhelmed and physically drained. Despite a strong academic record, she often doubts her abilities and struggles with the pressure to excel.",
+  "archetype": "stressed_student",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020108_2864c7",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

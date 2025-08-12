@@ -1,0 +1,75 @@
+{
+  "id": "persona_96",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "nurse in a busy urban hospital",
+    "education": "Bachelor's degree in Nursing",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "burnout",
+      "anxiety",
+      "insomnia"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "high patient workload",
+      "emotional exhaustion from patient care",
+      "lack of support from management"
+    ],
+    "coping_mechanisms": [
+      "yoga",
+      "journaling",
+      "talking with coworkers"
+    ],
+    "therapy_history": "attended therapy for a brief period 2 years ago but stopped due to time constraints",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "resilient",
+      "detail-oriented",
+      "sensitive",
+      "hardworking"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "reduce stress levels",
+    "improve sleep quality",
+    "develop healthier work-life balance",
+    "increase resilience to workplace pressures"
+  ],
+  "barriers": [
+    "time constraints due to work schedule",
+    "feeling guilty for taking time for self-care",
+    "lack of access to mental health resources at work"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "stress management articles",
+      "community support forums"
+    ],
+    "session_frequency": "as-needed"
+  },
+  "backstory": "Having dedicated herself to patient care for over a decade, she has increasingly found herself drained by the demands of her job. Personal experiences with loss during the pandemic have exacerbated her feelings of burnout, leading her to seek effective strategies for coping with her mental health challenges.",
+  "archetype": "burnout_healthcare",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020603_dd06ca",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

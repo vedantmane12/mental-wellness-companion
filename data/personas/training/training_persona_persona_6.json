@@ -1,0 +1,74 @@
+{
+  "id": "persona_6",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "nurse in an urban hospital",
+    "education": "Bachelor's degree in Nursing",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "burnout",
+      "anxiety",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "long shifts",
+      "emergency situations",
+      "lack of support from management"
+    ],
+    "coping_mechanisms": [
+      "yoga",
+      "journaling",
+      "talking to friends"
+    ],
+    "therapy_history": "attended therapy sessions twice, currently on a break",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "hardworking",
+      "perfectionist",
+      "stressed",
+      "resourceful"
+    ],
+    "communication_style": "direct",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "reduce burnout symptoms",
+    "improve work-life balance",
+    "develop healthier coping strategies"
+  ],
+  "barriers": [
+    "lack of time due to work commitments",
+    "feeling guilty about taking breaks",
+    "unsupportive work environment"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "educational articles",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Growing up in a small town, she moved to the city for better career opportunities and has been working as a nurse for over a decade. Passionate about helping others, she often neglects her own needs, leading to feelings of exhaustion and anxiety.",
+  "archetype": "burnout_healthcare",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015415_163ae3",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

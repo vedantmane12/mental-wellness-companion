@@ -1,0 +1,74 @@
+{
+  "id": "persona_4",
+  "demographics": {
+    "age": 72,
+    "gender": "female",
+    "occupation": "retired teacher",
+    "education": "master's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "loneliness",
+      "grief",
+      "anxiety"
+    ],
+    "severity": "moderate",
+    "duration": "2 years since spouse's passing",
+    "triggers": [
+      "family gatherings",
+      "anniversaries",
+      "quiet evenings at home"
+    ],
+    "coping_mechanisms": [
+      "reading",
+      "gardening",
+      "occasional social events"
+    ],
+    "therapy_history": "attended grief counseling for 6 months after spouse's death",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "resilient",
+      "introverted",
+      "thoughtful",
+      "caring"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "form new social connections",
+    "reduce feelings of isolation",
+    "enhance self-care practices"
+  ],
+  "barriers": [
+    "fear of rejection",
+    "physical mobility issues",
+    "lack of nearby family support"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles about coping with loss",
+      "guided meditation videos",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After losing her husband of 50 years, Mary has struggled with loneliness and adjusting to life without him. A former elementary school teacher, she finds joy in teaching but feels disconnected from her community now that her social circle has diminished. She seeks support and resources to help navigate her grief and loneliness.",
+  "archetype": "isolated_elder",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015401_c9cde7",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

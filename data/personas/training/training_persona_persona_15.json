@@ -1,0 +1,75 @@
+{
+  "id": "persona_15",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "marketing coordinator",
+    "education": "Bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "grief over the loss of a parent",
+      "feelings of loneliness",
+      "difficulty concentrating at work"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "anniversaries or holidays",
+      "seeing others with their parents",
+      "family gatherings"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "talking to friends",
+      "spending time in nature"
+    ],
+    "therapy_history": "attended weekly therapy sessions for 3 months but felt they had not fully addressed her grief",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "introverted",
+      "thoughtful",
+      "creative",
+      "anxious"
+    ],
+    "communication_style": "emotional",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "process grief healthily",
+    "build a support network",
+    "develop new coping strategies",
+    "improve focus at work"
+  ],
+  "barriers": [
+    "fear of opening up to others",
+    "time constraints due to work",
+    "feelings of guilt about moving on"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on grief",
+      "community support groups"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After losing her father unexpectedly, she has struggled to find a balance between her grief and daily responsibilities. She is looking for tools that can help her navigate her feelings while managing her work and social life.",
+  "archetype": "grieving_individual",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015526_6665ba",
+  "initial_emotional_state": {
+    "anxiety": 0.3,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

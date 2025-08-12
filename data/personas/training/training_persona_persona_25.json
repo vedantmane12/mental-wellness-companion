@@ -1,0 +1,74 @@
+{
+  "id": "persona_25",
+  "demographics": {
+    "age": 35,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "grief from the recent loss of a loved one",
+      "difficulty concentrating",
+      "feelings of isolation"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "anniversaries of significant dates",
+      "seeing reminders of the deceased",
+      "social gatherings"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "art therapy",
+      "talking to friends"
+    ],
+    "therapy_history": "attended a few counseling sessions but struggled to continue due to emotional overwhelm",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "creative",
+      "sensitive",
+      "introspective",
+      "persistent"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "to process grief in a healthy manner",
+    "to reconnect with friends and family",
+    "to find joy in creative outlets again"
+  ],
+  "barriers": [
+    "difficulty reaching out to others",
+    "fear of being a burden",
+    "overwhelming emotional pain"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "interactive journaling prompts",
+      "supportive community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After losing her mother to cancer six months ago, Sarah has been struggling to navigate her grief while maintaining her job. The loss has deeply affected her personal and professional life, leading her to seek tools to help her cope and eventually heal.",
+  "archetype": "grieving_individual",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015637_e2f9bf",
+  "initial_emotional_state": {
+    "anxiety": 0.3,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

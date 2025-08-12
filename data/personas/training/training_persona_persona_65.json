@@ -1,0 +1,74 @@
+{
+  "id": "persona_65",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree in Fine Arts",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "grief over the loss of a loved one",
+      "feelings of loneliness",
+      "difficulty concentrating"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "anniversaries",
+      "holidays",
+      "seeing reminders of the deceased"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "listening to music",
+      "talking to friends"
+    ],
+    "therapy_history": "has attended therapy sessions intermittently since the loss, but not regularly",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "empathetic",
+      "sensitive",
+      "thoughtful",
+      "introverted"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "process grief in a healthy way",
+    "find new ways to remember the loved one",
+    "reconnect with friends and family"
+  ],
+  "barriers": [
+    "fear of being a burden to others",
+    "difficulty in expressing emotions",
+    "overwhelmed by grief"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on grief and loss",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After losing her father unexpectedly, she has been navigating her grief while trying to maintain her creative career. The loss has left her feeling isolated, and she is looking for ways to process her emotions and reconnect with her passion for design.",
+  "archetype": "grieving_individual",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020146_1073c4",
+  "initial_emotional_state": {
+    "anxiety": 0.3,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "batch_size": 5,
+  "prefix": "test",
+  "generated_at": "timestamp_20250811_003804_4a6cab",
+  "archetypes": [
+    "overwhelmed_parent",
+    "depressed_adult",
+    "stressed_student",
+    "isolated_elder",
+    "anxious_professional"
+  ],
+  "age_range": [
+    25,
+    65
+  ],
+  "severity_distribution": {
+    "moderate": 5
+  }
+}

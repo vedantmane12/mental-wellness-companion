@@ -1,0 +1,75 @@
+{
+  "id": "persona_70",
+  "demographics": {
+    "age": 29,
+    "gender": "female",
+    "occupation": "marketing executive",
+    "education": "Master's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "imposter syndrome",
+      "self-doubt"
+    ],
+    "severity": "moderate",
+    "duration": "1-2 years",
+    "triggers": [
+      "work deadlines",
+      "public speaking",
+      "performance reviews"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "deep breathing exercises",
+      "talking to friends"
+    ],
+    "therapy_history": "Currently attending therapy bi-weekly for the past six months.",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "perfectionist",
+      "empathetic",
+      "introverted",
+      "hardworking",
+      "anxious"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "reduce anxiety levels",
+    "build self-confidence",
+    "manage stress effectively",
+    "learn public speaking techniques"
+  ],
+  "barriers": [
+    "time management due to work demands",
+    "fear of judgment",
+    "tendency to procrastinate"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on anxiety management",
+      "interactive workshops"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Sarah moved to the city for a promising job opportunity after completing her Master's in Marketing. Despite her academic success, she struggles with feelings of inadequacy and fear of being 'found out' as a fraud in her role, leading her to seek support for her mental wellness.",
+  "archetype": "anxious_professional",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020226_d1c64f",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

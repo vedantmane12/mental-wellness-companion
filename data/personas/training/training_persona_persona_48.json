@@ -1,0 +1,74 @@
+{
+  "id": "persona_48",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "marketing manager",
+    "education": "bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety about career transition",
+      "self-doubt",
+      "fear of failure"
+    ],
+    "severity": "moderate",
+    "duration": "3 months",
+    "triggers": [
+      "job interviews",
+      "performance reviews",
+      "conversations about future plans"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "talking to friends",
+      "exercise"
+    ],
+    "therapy_history": "Attended cognitive behavioral therapy (CBT) for 6 months previously, focused on managing anxiety.",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "organized",
+      "perfectionistic",
+      "goal-oriented",
+      "self-reflective"
+    ],
+    "communication_style": "direct",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "gain clarity on new career path",
+    "reduce anxiety related to job searching",
+    "build confidence in interviews"
+  ],
+  "barriers": [
+    "fear of uncertainty in a new career",
+    "lack of networking opportunities",
+    "imposter syndrome"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles on career transitions",
+      "guided meditations",
+      "podcasts on professional growth"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After several years in a stable but unfulfilling marketing role, she has decided to explore a career transition into the field of user experience design. She is passionate about creating user-centered solutions but feels overwhelmed by the changes ahead and fears she may not be able to adapt.",
+  "archetype": "career_transition",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015920_e411f3",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

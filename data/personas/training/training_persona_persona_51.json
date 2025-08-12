@@ -1,0 +1,79 @@
+{
+  "id": "persona_51",
+  "demographics": {
+    "age": 21,
+    "gender": "female",
+    "occupation": "undergraduate student",
+    "education": "pursuing Bachelor's degree in Psychology",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "academic pressure",
+      "anxiety",
+      "procrastination",
+      "self-esteem issues"
+    ],
+    "severity": "moderate",
+    "duration": "ongoing for the past year",
+    "triggers": [
+      "upcoming exams",
+      "group projects",
+      "lack of sleep",
+      "social media"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "mindfulness exercises",
+      "talking to friends",
+      "exercise"
+    ],
+    "therapy_history": "has attended three therapy sessions last semester but struggled to continue due to time constraints",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "perfectionistic",
+      "empathetic",
+      "introverted",
+      "driven",
+      "self-critical"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "reduce anxiety during exams",
+    "improve time management skills",
+    "increase self-compassion",
+    "engage more in social activities"
+  ],
+  "barriers": [
+    "lack of time due to academic workload",
+    "financial constraints limiting access to therapy",
+    "feeling overwhelmed and unmotivated"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "self-help articles",
+      "video content",
+      "peer support forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Maria is a second-year psychology student who moved to the city for university. She has always been academically inclined but is struggling to balance her studies, part-time job, and social life. The pressures of maintaining her scholarship and living away from home have heightened her stress levels, leading her to seek support for managing her mental wellness.",
+  "archetype": "stressed_student",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015943_d25b1d",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

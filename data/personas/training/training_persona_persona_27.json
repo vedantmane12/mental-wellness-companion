@@ -1,0 +1,74 @@
+{
+  "id": "persona_27",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "relationship anxiety",
+      "communication issues",
+      "fear of abandonment"
+    ],
+    "severity": "moderate",
+    "duration": "2 years",
+    "triggers": [
+      "conflicts with partner",
+      "social gatherings",
+      "discussions about future"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "talking to friends",
+      "meditative breathing"
+    ],
+    "therapy_history": "attended cognitive-behavioral therapy for 6 months, currently in a support group",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "creative",
+      "insecure",
+      "reflective",
+      "detail-oriented"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "improve communication skills",
+    "reduce anxiety in relationships",
+    "build confidence in expressing needs"
+  ],
+  "barriers": [
+    "fear of rejection",
+    "difficulty trusting others",
+    "lack of consistent support"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles",
+      "interactive exercises",
+      "video content"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Jessica grew up in a close-knit family but struggles to form secure attachments due to her parents' tumultuous relationship. After a difficult breakup, she recognizes a pattern of anxiety that affects her current relationship, motivating her to seek support through both therapy and a wellness app.",
+  "archetype": "relationship_struggles",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015651_4a25b5",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

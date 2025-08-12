@@ -1,0 +1,74 @@
+{
+  "id": "persona_53",
+  "demographics": {
+    "age": 38,
+    "gender": "female",
+    "occupation": "nurse",
+    "education": "Associate's Degree in Nursing",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "stress management",
+      "anxiety",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "2 years",
+    "triggers": [
+      "long shifts at work",
+      "lack of support from ex-partner",
+      "financial pressures"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "exercise",
+      "mindfulness meditation"
+    ],
+    "therapy_history": "Attended therapy sessions for six months but could not continue due to time constraints.",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "resilient",
+      "organized",
+      "practical",
+      "overwhelmed"
+    ],
+    "communication_style": "direct",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "improve stress management skills",
+    "find more time for self-care",
+    "build a support network"
+  ],
+  "barriers": [
+    "limited time due to work and childcare",
+    "feelings of guilt when taking time for herself",
+    "financial strain"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "audio meditations",
+      "informative articles",
+      "video tutorials"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "As a single mother of two young children, Sarah often finds herself stretched thin between her demanding job as a nurse and her responsibilities at home. After her marriage ended, she has fought to maintain a good routine for her kids while trying to manage her own mental health. Sarah is determined to create a better balance in her life and is looking for resources that can help her navigate the challenges she faces.",
+  "archetype": "overwhelmed_parent",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015958_da2796",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

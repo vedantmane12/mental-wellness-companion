@@ -1,0 +1,74 @@
+{
+  "id": "persona_67",
+  "demographics": {
+    "age": 29,
+    "gender": "female",
+    "occupation": "marketing coordinator",
+    "education": "bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety about relationships",
+      "fear of abandonment",
+      "communication issues"
+    ],
+    "severity": "moderate",
+    "duration": "3 years",
+    "triggers": [
+      "conflict with partners",
+      "social media comparisons",
+      "family gatherings"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "talking to friends",
+      "practicing mindfulness"
+    ],
+    "therapy_history": "attended individual therapy for 6 months 2 years ago, currently not in therapy",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "sensitive",
+      "outgoing",
+      "self-critical",
+      "curious"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "improve communication in relationships",
+    "develop self-confidence",
+    "reduce anxiety during conflicts"
+  ],
+  "barriers": [
+    "fear of vulnerability",
+    "busy work schedule",
+    "feeling overwhelmed by emotions"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on relationship dynamics",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After a challenging breakup two years ago, she has struggled with anxiety in her relationships. Living in a bustling city, she finds it hard to escape the constant social comparison, which fuels her insecurities. She seeks support to build healthier communication patterns and work through her emotional hurdles.",
+  "archetype": "relationship_struggles",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020202_6bcc54",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

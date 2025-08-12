@@ -1,0 +1,81 @@
+{
+  "episodes_completed": 91,
+  "best_reward": 4.839,
+  "average_reward": 3.2665934065934064,
+  "final_policy_loss": 0.03361535090953112,
+  "final_value_loss": 2.6352436996996405,
+  "bandit_statistics": {
+    "total_selections": 100,
+    "resource_stats": {
+      "article": {
+        "pulls": 18,
+        "mean_reward": 0.4839000000000001,
+        "alpha": 1.0,
+        "beta": 10.289799999999998
+      },
+      "exercise": {
+        "pulls": 15,
+        "mean_reward": 0.48390000000000016,
+        "alpha": 1.0,
+        "beta": 8.741499999999998
+      },
+      "video": {
+        "pulls": 15,
+        "mean_reward": 0.48390000000000016,
+        "alpha": 1.0,
+        "beta": 8.741499999999998
+      },
+      "worksheet": {
+        "pulls": 19,
+        "mean_reward": 0.4839000000000001,
+        "alpha": 1.0,
+        "beta": 10.805899999999998
+      },
+      "meditation": {
+        "pulls": 16,
+        "mean_reward": 0.48390000000000016,
+        "alpha": 1.0,
+        "beta": 9.257599999999998
+      },
+      "professional_referral": {
+        "pulls": 17,
+        "mean_reward": 0.4839000000000001,
+        "alpha": 1.0,
+        "beta": 9.773699999999998
+      }
+    },
+    "timing_stats": {
+      "immediate": {
+        "pulls": 0,
+        "mean_reward": 0.5
+      },
+      "soon": {
+        "pulls": 0,
+        "mean_reward": 0.5
+      },
+      "daily": {
+        "pulls": 0,
+        "mean_reward": 0.5
+      },
+      "weekly": {
+        "pulls": 0,
+        "mean_reward": 0.5
+      }
+    },
+    "best_resources": [
+      [
+        "exercise",
+        0.48390000000000016
+      ],
+      [
+        "video",
+        0.48390000000000016
+      ],
+      [
+        "meditation",
+        0.48390000000000016
+      ]
+    ],
+    "exploration_rate": 0.81
+  }
+}

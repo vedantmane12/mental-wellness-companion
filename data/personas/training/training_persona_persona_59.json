@@ -1,0 +1,74 @@
+{
+  "id": "persona_59",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "chronic fatigue",
+      "stress management"
+    ],
+    "severity": "moderate",
+    "duration": "3 years",
+    "triggers": [
+      "overexertion",
+      "lack of sleep",
+      "high-stress deadlines"
+    ],
+    "coping_mechanisms": [
+      "mindfulness exercises",
+      "light physical activity",
+      "journaling"
+    ],
+    "therapy_history": "Attended CBT sessions for a year; currently not in therapy.",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "empathetic",
+      "introverted",
+      "perfectionistic",
+      "resilient"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "reduce anxiety levels",
+    "improve energy levels",
+    "establish a consistent self-care routine"
+  ],
+  "barriers": [
+    "difficulty in maintaining a routine",
+    "fear of judgment",
+    "lack of external support from peers"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "educational articles",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Samantha is a 32-year-old graphic designer living in a bustling city. She has been managing chronic fatigue syndrome for the past three years, which often exacerbates her anxiety during high-pressure work periods. Samantha seeks balance and tools to help her navigate both her wellness journey and her creative profession.",
+  "archetype": "chronic_illness",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020050_5b711b",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

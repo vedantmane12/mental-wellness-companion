@@ -1,0 +1,74 @@
+{
+  "id": "persona_38",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "marketing manager",
+    "education": "Bachelor's degree in Communications",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "career uncertainty",
+      "work-life balance",
+      "anxiety about future"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "upcoming job interviews",
+      "performance reviews",
+      "overwhelming workload"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "yoga",
+      "talking to friends"
+    ],
+    "therapy_history": "attended cognitive behavioral therapy sessions for 3 months",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "analytical",
+      "determined",
+      "creative",
+      "slightly introverted"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "gain clarity on career direction",
+    "improve stress management",
+    "explore new job opportunities"
+  ],
+  "barriers": [
+    "fear of failure",
+    "lack of professional network",
+    "self-doubt"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "video tutorials",
+      "guided meditations",
+      "interactive webinars"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After working in marketing for over a decade, she feels stuck in her current role and is uncertain about her next steps. Juggling a demanding job and personal life has taken a toll on her mental health, prompting her to seek better strategies for coping and career exploration.",
+  "archetype": "career_transition",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015811_f7f40c",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

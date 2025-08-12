@@ -1,0 +1,74 @@
+{
+  "id": "persona_37",
+  "demographics": {
+    "age": 29,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "relationship communication issues",
+      "fear of abandonment",
+      "anxiety about intimacy"
+    ],
+    "severity": "moderate",
+    "duration": "1-2 years",
+    "triggers": [
+      "conflict in relationships",
+      "rejection or criticism",
+      "stress at work"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "mindfulness meditation",
+      "talking to friends"
+    ],
+    "therapy_history": "has attended therapy for 6 months but stopped due to scheduling conflicts",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "sensitive",
+      "creative",
+      "empathetic",
+      "anxious",
+      "introspective"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "improve communication skills in relationships",
+    "manage anxiety better",
+    "build self-esteem"
+  ],
+  "barriers": [
+    "busy work schedule",
+    "fear of vulnerability",
+    "difficulty finding compatible therapists"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on effective communication",
+      "video workshops"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Growing up in a close-knit family, she often felt pressure to maintain harmony in relationships. After a rough breakup, she started to experience anxiety related to closeness and communication. Seeking to understand herself better, she turned to therapy but struggled to maintain a consistent schedule due to her demanding job.",
+  "archetype": "relationship_struggles",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015806_8df700",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

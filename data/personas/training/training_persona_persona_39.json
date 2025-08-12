@@ -1,0 +1,74 @@
+{
+  "id": "persona_39",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree in Fine Arts",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "depression",
+      "chronic pain"
+    ],
+    "severity": "moderate",
+    "duration": "3 years",
+    "triggers": [
+      "stressful work deadlines",
+      "lack of sleep",
+      "social gatherings"
+    ],
+    "coping_mechanisms": [
+      "yoga",
+      "journaling",
+      "art therapy"
+    ],
+    "therapy_history": "attended therapy sessions for a year, currently exploring self-help strategies",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "sensitive",
+      "observant",
+      "introverted",
+      "empathetic"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "manage anxiety symptoms",
+    "create a balanced work-life routine",
+    "develop a consistent mindfulness practice"
+  ],
+  "barriers": [
+    "time constraints due to work",
+    "fear of stigma around mental illness",
+    "fatigue from chronic pain"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "informational articles",
+      "art-based exercises"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Growing up in a creative household, she pursued her passion for art and design. However, a diagnosis of fibromyalgia forced her to confront chronic pain, leading to increasing anxiety and depression. She's now on a journey to find balance and cope through creative outlets.",
+  "archetype": "chronic_illness",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015818_397c25",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.45,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

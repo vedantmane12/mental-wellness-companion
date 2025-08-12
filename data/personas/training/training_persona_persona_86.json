@@ -1,0 +1,74 @@
+{
+  "id": "persona_86",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "nurse",
+    "education": "bachelor's degree in nursing",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "burnout",
+      "anxiety",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "long shifts",
+      "high patient turnover",
+      "lack of support from management"
+    ],
+    "coping_mechanisms": [
+      "meditation",
+      "journaling",
+      "spending time with family"
+    ],
+    "therapy_history": "attended therapy sessions for 3 months last year, found it helpful but stopped due to time constraints",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "resilient",
+      "perfectionistic",
+      "self-critical",
+      "open-minded"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "manage stress better",
+    "improve work-life balance",
+    "increase self-compassion"
+  ],
+  "barriers": [
+    "time constraints due to work schedule",
+    "lack of professional support",
+    "feeling overwhelmed"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on burnout recovery",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Having worked as a nurse for over 10 years, she has always been passionate about patient care but has recently started feeling overwhelmed by the demands of her job. With a young family at home, she struggles to find time for self-care, leading to increased feelings of burnout.",
+  "archetype": "burnout_healthcare",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020436_bba6f4",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

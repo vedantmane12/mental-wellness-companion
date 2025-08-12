@@ -1,0 +1,76 @@
+{
+  "id": "persona_18",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "marketing manager",
+    "education": "Bachelor's degree in Marketing",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "career uncertainty",
+      "anxiety",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "work deadlines",
+      "feedback from supervisors",
+      "changes in team dynamics"
+    ],
+    "coping_mechanisms": [
+      "mindfulness meditation",
+      "journaling",
+      "talking to friends"
+    ],
+    "therapy_history": "attended a few sessions of cognitive-behavioral therapy (CBT) previously",
+    "medication": "no"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "driven",
+      "analytical",
+      "adaptable",
+      "thoughtful"
+    ],
+    "communication_style": "direct",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "gain clarity on career direction",
+    "reduce anxiety related to job transitions",
+    "improve work-life balance",
+    "cultivate new skills for the next career stage"
+  ],
+  "barriers": [
+    "fear of the unknown",
+    "lack of support from management",
+    "competing personal responsibilities",
+    "self-doubt"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "article recommendations",
+      "guided meditations",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After nearly a decade in the marketing field, she finds herself feeling unfulfilled and questioning her career path. Recently, her company underwent restructuring, adding to her uncertainties about her future. She seeks to transition into a more fulfilling role, possibly within the nonprofit sector, but feels overwhelmed by the changes.",
+  "archetype": "career_transition",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015546_204b39",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

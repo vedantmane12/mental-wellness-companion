@@ -1,0 +1,74 @@
+{
+  "id": "persona_10",
+  "demographics": {
+    "age": 28,
+    "gender": "female",
+    "occupation": "Marketing Coordinator",
+    "education": "Bachelor's Degree in Communications",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "imposter syndrome",
+      "self-doubt"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "deadlines",
+      "public speaking",
+      "lack of positive feedback"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "deep breathing exercises",
+      "talking to friends"
+    ],
+    "therapy_history": "has attended a few sessions with a therapist but stopped due to cost",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "ambitious",
+      "thoughtful",
+      "self-critical",
+      "sensitive",
+      "curious"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "reduce anxiety levels",
+    "build self-confidence",
+    "develop effective time management skills"
+  ],
+  "barriers": [
+    "difficulty accessing affordable therapy",
+    "fear of judgment from others",
+    "lack of supportive work environment"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles",
+      "audio meditations",
+      "video content"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Having grown up as a first-generation college graduate, she constantly feels pressure to succeed. After landing a job at a competitive marketing firm, she often feels like a fraud despite her qualifications and is determined to overcome her anxiety and imposter syndrome.",
+  "archetype": "anxious_professional",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015446_759433",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

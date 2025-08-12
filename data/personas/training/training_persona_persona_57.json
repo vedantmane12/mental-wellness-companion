@@ -1,0 +1,74 @@
+{
+  "id": "persona_57",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "marketing manager",
+    "education": "bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "relationship anxiety",
+      "communication issues",
+      "fear of abandonment"
+    ],
+    "severity": "moderate",
+    "duration": "2 years",
+    "triggers": [
+      "conflict with partner",
+      "discussions about future",
+      "social gatherings"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "mindfulness meditation",
+      "talking to friends"
+    ],
+    "therapy_history": "attended six months of couples therapy, currently considering individual therapy",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "introverted",
+      "thoughtful",
+      "anxious",
+      "self-critical"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "improve communication skills",
+    "reduce anxiety in relationships",
+    "build self-esteem"
+  ],
+  "barriers": [
+    "fear of being vulnerable",
+    "busy work schedule",
+    "past relationship trauma"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles",
+      "guided meditations",
+      "interactive exercises"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Having recently moved to a new city for work, she is grappling with the pressure of maintaining her long-distance relationship while developing new friendships. Past experiences of trauma related to trust have made her cautious and unsure in her current relationship, leading to heightened anxiety and communication breakdowns.",
+  "archetype": "relationship_struggles",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020034_4a68b5",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

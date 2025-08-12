@@ -1,0 +1,75 @@
+{
+  "id": "persona_13",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "adjustment to parenthood",
+      "anxiety",
+      "feelings of isolation"
+    ],
+    "severity": "moderate",
+    "duration": "3 months",
+    "triggers": [
+      "lack of sleep",
+      "feeling overwhelmed with new responsibilities",
+      "social media comparisons"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "breathing exercises",
+      "talking to friends"
+    ],
+    "therapy_history": "attended couples therapy during pregnancy; considering individual therapy now",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "creative",
+      "anxious",
+      "determined",
+      "reflective"
+    ],
+    "communication_style": "emotional",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "improve self-care routines",
+    "build support network",
+    "enhance coping skills",
+    "manage anxiety related to parenting"
+  ],
+  "barriers": [
+    "time constraints due to parenting",
+    "feeling guilty about taking time for herself",
+    "fear of judgment from other parents"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "podcasts",
+      "articles",
+      "guided meditations"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After the birth of her first child, Hannah found herself overwhelmed by the responsibilities of motherhood, struggling to find time for herself while managing anxiety about being a good parent. A graphic designer by trade, she often feels isolated and longs for community support, aiming to balance her creative passions with her new role as a mother.",
+  "archetype": "overwhelmed_parent",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015510_f4a6b2",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

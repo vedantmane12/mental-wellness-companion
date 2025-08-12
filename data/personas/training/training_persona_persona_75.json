@@ -1,0 +1,74 @@
+{
+  "id": "persona_75",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's Degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "grief over the loss of a loved one",
+      "difficulty concentrating",
+      "feelings of loneliness"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "anniversaries of death",
+      "seeing places that remind her of her loved one",
+      "family gatherings"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "art therapy",
+      "watching comforting movies"
+    ],
+    "therapy_history": "has participated in one-on-one counseling for a brief period, but found it difficult to continue",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "empathetic",
+      "sensitive",
+      "introspective",
+      "perfectionist"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "process grief in a healthy way",
+    "reconnect with friends and family",
+    "establish a routine for self-care"
+  ],
+  "barriers": [
+    "fear of feeling overwhelmed",
+    "lack of motivation",
+    "difficulty finding time for self-care"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on grief and healing",
+      "interactive journaling prompts"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After losing her mother unexpectedly six months ago, Sofia has been struggling with her emotions and feels stuck in her grief. As a graphic designer, she channels her feelings into her artwork, but often feels isolated and unsure how to move forward.",
+  "archetype": "grieving_individual",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020307_3b22dc",
+  "initial_emotional_state": {
+    "anxiety": 0.3,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "persona_55",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree in Fine Arts",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "prolonged sadness",
+      "feelings of isolation",
+      "difficulty focusing"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "anniversaries of loss",
+      "reminders of the deceased",
+      "social gatherings"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "art therapy",
+      "spending time with close friends"
+    ],
+    "therapy_history": "attended group therapy for 3 months, currently considering individual therapy",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "empathetic",
+      "introverted",
+      "thoughtful",
+      "sensitive"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "process grief in a healthy way",
+    "connect with others who are grieving",
+    "develop a consistent self-care routine"
+  ],
+  "barriers": [
+    "fear of vulnerability",
+    "difficulty expressing emotions",
+    "lack of social support"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles about grief",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After losing her mother to cancer, Sarah has struggled to navigate her grief while maintaining a busy career in graphic design. Despite having a close circle of friends, she often feels isolated and unsure how to connect with others who might understand her feelings.",
+  "archetype": "grieving_individual",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020019_1bbf3e",
+  "initial_emotional_state": {
+    "anxiety": 0.3,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

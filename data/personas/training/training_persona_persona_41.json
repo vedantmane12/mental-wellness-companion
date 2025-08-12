@@ -1,0 +1,80 @@
+{
+  "id": "persona_41",
+  "demographics": {
+    "age": 24,
+    "gender": "female",
+    "occupation": "medical student",
+    "education": "in progress (Doctor of Medicine)",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "stress",
+      "anxiety",
+      "burnout",
+      "lack of sleep"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "high workload",
+      "exams and assignments",
+      "long hours in the hospital",
+      "lack of social support"
+    ],
+    "coping_mechanisms": [
+      "exercise",
+      "talking with friends",
+      "occasional use of mindfulness apps",
+      "watching Netflix"
+    ],
+    "therapy_history": "none yet, considering therapy due to increasing stress",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "determined",
+      "empathetic",
+      "perfectionist",
+      "anxious",
+      "introverted"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "reduce stress levels",
+    "improve sleep quality",
+    "develop better time management skills",
+    "find a support system"
+  ],
+  "barriers": [
+    "limited time due to studies",
+    "financial constraints for therapy",
+    "self-doubt about needing help",
+    "feeling overwhelmed by responsibilities"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "journaling prompts",
+      "educational articles about stress management",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Sarah is a 24-year-old medical student in her second year, originally from a small town. She has always been dedicated to her studies, but the pressures of medical school have begun to take a toll on her mental health. Balancing rigorous coursework and clinical rotations, she often feels isolated and struggles with the fear of not meeting her own high expectations.",
+  "archetype": "stressed_student",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015832_f20359",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

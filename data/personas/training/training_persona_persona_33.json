@@ -1,0 +1,74 @@
+{
+  "id": "persona_33",
+  "demographics": {
+    "age": 29,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "postpartum anxiety",
+      "difficulty adjusting to motherhood",
+      "feelings of inadequacy"
+    ],
+    "severity": "moderate",
+    "duration": "3 months",
+    "triggers": [
+      "lack of sleep",
+      "feeling overwhelmed with responsibilities",
+      "social isolation"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "talking to friends",
+      "occasional yoga"
+    ],
+    "therapy_history": "attended a few sessions of postpartum support group therapy",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "creative",
+      "anxious",
+      "thoughtful",
+      "sensitive"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "reduce anxiety",
+    "connect with other parents",
+    "establish a consistent self-care routine"
+  ],
+  "barriers": [
+    "time constraints due to baby care",
+    "difficulty in finding local support groups",
+    "fear of judgment from others"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on parenting",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After welcoming her first child, Maria, a 29-year-old graphic designer, has found herself grappling with the overwhelming shift in her lifestyle and identity. Struggling with anxiety and feelings of inadequacy, she seeks connection and support to navigate this new chapter of her life while balancing her creative career.",
+  "archetype": "overwhelmed_parent",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015736_5a92b5",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

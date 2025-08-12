@@ -1,0 +1,80 @@
+{
+  "id": "persona_82",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree in Fine Arts",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "chronic depression",
+      "anxiety",
+      "low energy",
+      "difficulty concentrating"
+    ],
+    "severity": "moderate",
+    "duration": "5 years",
+    "triggers": [
+      "work stress",
+      "lack of socialization",
+      "negative self-talk",
+      "seasonal changes"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "art therapy",
+      "meditation",
+      "taking walks"
+    ],
+    "therapy_history": "has seen a therapist intermittently for the past 3 years and is currently in therapy",
+    "medication": "yes"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "sensitive",
+      "introverted",
+      "empathetic",
+      "self-critical"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "reduce symptoms of depression",
+    "improve self-esteem",
+    "build a consistent self-care routine",
+    "develop healthier coping strategies"
+  ],
+  "barriers": [
+    "time constraints due to work",
+    "lack of motivation to engage in activities",
+    "fear of sharing feelings with others",
+    "difficulty starting new habits"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "self-help articles",
+      "interactive exercises",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Having battled chronic depression since her late twenties, Mia, a 34-year-old graphic designer, often finds herself in a cycle of creativity followed by deep periods of low energy. Living in a bustling urban area, she yearns for social connection but struggles with self-doubt that holds her back from reaching out to others.",
+  "archetype": "depressed_adult",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020405_f0022c",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.45,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

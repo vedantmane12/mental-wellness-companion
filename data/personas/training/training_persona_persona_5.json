@@ -1,0 +1,78 @@
+{
+  "id": "persona_5",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's Degree in Fine Arts",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "prolonged sadness",
+      "difficulty concentrating",
+      "increased anxiety",
+      "social isolation"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "anniversaries of loss",
+      "memories of the deceased",
+      "major life changes"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "art therapy",
+      "meditative practices"
+    ],
+    "therapy_history": "attended individual therapy for 3 months but stopped due to financial constraints",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "empathetic",
+      "sensitive",
+      "introverted",
+      "thoughtful"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "process grief healthily",
+    "increase social engagement",
+    "develop better coping strategies for anxiety",
+    "rediscover joy in hobbies"
+  ],
+  "barriers": [
+    "financial limitations",
+    "lack of support from friends",
+    "difficulty in articulating feelings",
+    "fear of judgment"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "art therapy exercises",
+      "personal stories of loss",
+      "educational articles about grief"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After losing her mother to cancer six months ago, Sarah has struggled to regain her old self. She used to find solace in her artwork but now feels a heavy emotional burden that stifles her creativity. Living alone in a bustling city further heightens her sense of isolation as she navigates this painful journey of grief.",
+  "archetype": "grieving_individual",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015409_5e6ac8",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

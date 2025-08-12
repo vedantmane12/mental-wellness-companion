@@ -1,0 +1,74 @@
+{
+  "id": "persona_76",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "registered nurse",
+    "education": "Bachelor's degree in Nursing",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "burnout",
+      "anxiety",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "high patient load",
+      "emotional exhaustion",
+      "lack of support from colleagues"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "deep breathing exercises",
+      "weekly yoga classes"
+    ],
+    "therapy_history": "has seen a therapist once for coping strategies",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "dedicated",
+      "perfectionistic",
+      "resilient",
+      "proactive"
+    ],
+    "communication_style": "emotional",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "reduce stress levels",
+    "improve sleep quality",
+    "find a better work-life balance"
+  ],
+  "barriers": [
+    "time constraints due to work",
+    "feeling guilty for taking time for self-care",
+    "lack of support from management"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "self-help articles",
+      "interactive mood tracking"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "As a dedicated nurse, she often finds herself overwhelmed by the demands of her job, which has led to feelings of burnout. Despite her passion for helping others, she struggles to prioritize her own mental health due to a busy schedule and a lack of institutional support.",
+  "archetype": "burnout_healthcare",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020317_48952e",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

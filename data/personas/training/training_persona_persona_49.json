@@ -1,0 +1,74 @@
+{
+  "id": "persona_49",
+  "demographics": {
+    "age": 30,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "depression",
+      "chronic pain management"
+    ],
+    "severity": "moderate",
+    "duration": "5 years",
+    "triggers": [
+      "stressful work deadlines",
+      "lack of sleep",
+      "social gatherings"
+    ],
+    "coping_mechanisms": [
+      "meditation",
+      "journaling",
+      "art therapy"
+    ],
+    "therapy_history": "has attended cognitive behavioral therapy (CBT) in the past but has not been consistent",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "sensitive",
+      "introverted",
+      "thoughtful",
+      "resilient"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "improve stress management",
+    "develop consistent self-care routines",
+    "enhance coping skills for chronic pain"
+  ],
+  "barriers": [
+    "work responsibilities",
+    "fear of stigma in discussing mental health",
+    "physical limitations due to illness"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "interactive journals",
+      "art prompts"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After being diagnosed with fibromyalgia in her mid-20s, she has struggled with managing both physical and mental health symptoms. As a graphic designer, she often faces long hours at a desk, which exacerbates her conditions, but she finds solace in her creative outlets.",
+  "archetype": "chronic_illness",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015927_574310",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.45,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

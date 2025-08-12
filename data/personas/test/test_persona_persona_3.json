@@ -1,0 +1,74 @@
+{
+  "id": "persona_3",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "customer service manager",
+    "education": "bachelor's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "stress management",
+      "anxiety",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "work deadlines",
+      "childcare responsibilities",
+      "social gatherings"
+    ],
+    "coping_mechanisms": [
+      "yoga",
+      "journaling",
+      "deep breathing"
+    ],
+    "therapy_history": "attended therapy sessions for 6 months last year",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "organized",
+      "resilient",
+      "overwhelmed",
+      "proactive"
+    ],
+    "communication_style": "direct",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "reduce anxiety levels",
+    "create a more balanced schedule",
+    "improve self-care habits"
+  ],
+  "barriers": [
+    "lack of time",
+    "feeling guilty for taking time for herself",
+    "limited support network"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles",
+      "guided meditations",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Lisa became a single parent two years ago after a difficult divorce. Balancing her job as a customer service manager with the demands of parenting her 8-year-old son has been challenging. Lisa strives to provide a stable home environment while managing her own mental health needs.",
+  "archetype": "overwhelmed_parent",
+  "batch_prefix": "test",
+  "generated_at": "timestamp_20250811_003758_8b47ae",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

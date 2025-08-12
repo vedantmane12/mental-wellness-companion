@@ -1,0 +1,74 @@
+{
+  "id": "persona_0",
+  "demographics": {
+    "age": 38,
+    "gender": "female",
+    "occupation": "Marketing Manager",
+    "education": "Master's Degree in Business Administration",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "anxiety",
+      "stress management",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "5 years",
+    "triggers": [
+      "tight deadlines",
+      "lack of support",
+      "workplace conflicts"
+    ],
+    "coping_mechanisms": [
+      "mindfulness meditation",
+      "physical exercise",
+      "journaling"
+    ],
+    "therapy_history": "attended therapy sessions for 1 year, currently not in therapy",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "perfectionistic",
+      "empathetic",
+      "introverted",
+      "goal-oriented",
+      "sensitive"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "improve work-life balance",
+    "reduce anxiety symptoms",
+    "enhance stress management skills"
+  ],
+  "barriers": [
+    "time constraints",
+    "fear of being judged",
+    "difficulty accessing mental health resources"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "video tutorials",
+      "guided meditations",
+      "articles on anxiety management"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After climbing the corporate ladder in a fast-paced marketing environment, she finds herself feeling overwhelmed and anxious due to high expectations at work. She aims to create a balanced life where she can enjoy her job without sacrificing her personal well-being.",
+  "archetype": "anxious_professional",
+  "batch_prefix": "test",
+  "generated_at": "timestamp_20250811_003736_baa671",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

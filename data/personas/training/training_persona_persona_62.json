@@ -1,0 +1,80 @@
+{
+  "id": "persona_62",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's Degree in Fine Arts",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "chronic depression",
+      "anxiety",
+      "low energy",
+      "difficulty concentrating"
+    ],
+    "severity": "moderate",
+    "duration": "5 years",
+    "triggers": [
+      "stressful work deadlines",
+      "social interactions",
+      "lack of sleep",
+      "seasonal changes"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "art therapy",
+      "meditation",
+      "spending time with pets"
+    ],
+    "therapy_history": "previously attended cognitive-behavioral therapy for 6 months, currently not in therapy but open to returning",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "introspective",
+      "sensitive",
+      "persistent",
+      "empathetic"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "improve mood stability",
+    "develop healthier coping mechanisms",
+    "enhance productivity at work",
+    "build a supportive social network"
+  ],
+  "barriers": [
+    "fear of stigma",
+    "lack of motivation",
+    "difficulty finding time for self-care",
+    "financial constraints for therapy costs"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "art therapy exercises",
+      "journaling prompts",
+      "supportive community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Growing up in a small town, she moved to the city to pursue her dream job in graphic design. Despite her artistic success, she has faced ongoing battles with chronic depression since college, often feeling isolated and misunderstood. With a passion for art, she seeks creative outlets but struggles with motivation and energy.",
+  "archetype": "depressed_adult",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020116_77c934",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.45,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

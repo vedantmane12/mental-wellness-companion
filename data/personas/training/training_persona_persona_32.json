@@ -1,0 +1,75 @@
+{
+  "id": "persona_32",
+  "demographics": {
+    "age": 30,
+    "gender": "female",
+    "occupation": "marketing coordinator",
+    "education": "Bachelor's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "feelings of sadness",
+      "anxiety about parenting",
+      "difficulty bonding with the baby"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "lack of sleep",
+      "feeling overwhelmed by responsibilities",
+      "social isolation"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "occasional walks",
+      "reaching out to friends"
+    ],
+    "therapy_history": "attended therapy sessions for 3 months but discontinued due to lack of time",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "sensitive",
+      "anxious",
+      "responsible",
+      "thoughtful"
+    ],
+    "communication_style": "emotional",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "develop a positive mindset",
+    "increase emotional resilience",
+    "improve sleep quality",
+    "enhance bonding with the baby"
+  ],
+  "barriers": [
+    "time constraints due to baby care",
+    "lack of support from spouse",
+    "guilt about not feeling connected to the baby"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "informative articles",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After giving birth to her first child, Tara experienced heightened feelings of sadness and anxiety, which she attributed to postpartum depression. Despite being a dedicated mother, she struggles to connect with her baby due to overwhelming responsibilities and limited support at home.",
+  "archetype": "depressed_adult",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015730_6f955b",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

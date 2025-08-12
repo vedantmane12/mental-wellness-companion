@@ -1,0 +1,74 @@
+{
+  "id": "persona_2",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "postpartum depression",
+      "anxiety about parenting",
+      "feelings of inadequacy"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "lack of sleep",
+      "overwhelm from new responsibilities",
+      "negative self-talk"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "occasional exercise",
+      "talking to friends"
+    ],
+    "therapy_history": "attended therapy sessions for a few months after giving birth; not currently in therapy",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "empathetic",
+      "anxious",
+      "detail-oriented",
+      "self-critical"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "improve mood",
+    "establish a consistent self-care routine",
+    "build confidence in parenting"
+  ],
+  "barriers": [
+    "time management with a newborn",
+    "access to supportive resources",
+    "fear of judgment from others"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "self-help articles",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After giving birth to her first child, Sarah struggled to adjust to new motherhood and has been feeling increasingly isolated. As a creative professional, she often finds solace in artistic expression but feels overwhelmed by the demands of parenting and self-doubt.",
+  "archetype": "depressed_adult",
+  "batch_prefix": "test",
+  "generated_at": "timestamp_20250811_003751_8bd7f1",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.45,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

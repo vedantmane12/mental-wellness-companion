@@ -1,0 +1,74 @@
+{
+  "id": "persona_54",
+  "demographics": {
+    "age": 72,
+    "gender": "female",
+    "occupation": "retired teacher",
+    "education": "Master's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "loneliness",
+      "grief from loss of spouse",
+      "anxiety about health"
+    ],
+    "severity": "moderate",
+    "duration": "2 years",
+    "triggers": [
+      "anniversaries of spouse's passing",
+      "seeing couples together",
+      "social events"
+    ],
+    "coping_mechanisms": [
+      "reading",
+      "gardening",
+      "phone calls with friends"
+    ],
+    "therapy_history": "attended grief counseling for six months after spouse's death, currently not in therapy",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "thoughtful",
+      "introverted",
+      "independent",
+      "nostalgic"
+    ],
+    "communication_style": "emotional",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "build new social connections",
+    "develop coping strategies for loneliness",
+    "engage in community activities"
+  ],
+  "barriers": [
+    "physical limitations due to age",
+    "fear of rejection in social settings",
+    "limited transportation options"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles on coping with loss",
+      "community event calendars",
+      "guided meditation"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After losing her husband two years ago, Eleanor has struggled with feelings of loneliness. She devoted her life to teaching but now finds herself longing for connection and support. Living alone in a suburban neighborhood, she has limited social interactions and often reminisces about her rich life with her partner.",
+  "archetype": "isolated_elder",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020009_6f732f",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

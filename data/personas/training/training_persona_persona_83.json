@@ -1,0 +1,74 @@
+{
+  "id": "persona_83",
+  "demographics": {
+    "age": 38,
+    "gender": "female",
+    "occupation": "administrative assistant",
+    "education": "associate degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "stress management",
+      "anxiety",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "ongoing for 2 years",
+    "triggers": [
+      "work deadlines",
+      "lack of support",
+      "financial stress"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "yoga",
+      "deep breathing exercises"
+    ],
+    "therapy_history": "attended therapy sessions sporadically over the last year, found them helpful but difficult to maintain due to time constraints",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "resilient",
+      "empathetic",
+      "organized",
+      "overwhelmed",
+      "determined"
+    ],
+    "communication_style": "direct",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "improve stress management",
+    "develop a consistent self-care routine",
+    "enhance parenting skills"
+  ],
+  "barriers": [
+    "time constraints due to work and parenting",
+    "limited support from family and friends",
+    "financial concerns"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "audio guided meditations",
+      "articles on parenting and self-care",
+      "video tutorials on stress management techniques"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Alicia is a single mother of two children, ages 10 and 7, living in a suburban neighborhood. After her divorce three years ago, she returned to work full-time to support her family, often feeling overwhelmed by the dual responsibilities of work and childcare.",
+  "archetype": "overwhelmed_parent",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020411_26a6f6",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

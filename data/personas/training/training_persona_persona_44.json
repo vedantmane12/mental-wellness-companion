@@ -1,0 +1,75 @@
+{
+  "id": "persona_44",
+  "demographics": {
+    "age": 62,
+    "gender": "female",
+    "occupation": "nurse",
+    "education": "bachelor's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "feelings of purposelessness",
+      "low motivation",
+      "anxiety about future"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "changes in daily routine",
+      "lack of social interaction",
+      "reminders of previous work life"
+    ],
+    "coping_mechanisms": [
+      "reading",
+      "gardening",
+      "occasional volunteer work"
+    ],
+    "therapy_history": "attended therapy sessions for a year prior to retirement, focused on stress management",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "reflective",
+      "caring",
+      "introverted",
+      "thoughtful"
+    ],
+    "communication_style": "emotional",
+    "openness": "medium",
+    "motivation_level": "low",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "rediscover a sense of purpose",
+    "develop new hobbies",
+    "enhance social connections",
+    "manage anxiety"
+  ],
+  "barriers": [
+    "limited social circle",
+    "uncertainty about self-value post-retirement",
+    "physical health issues such as arthritis"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "community forums",
+      "educational articles on finding purpose"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After 40 years of being a dedicated nurse, Maria retired last year, hoping to enjoy more free time while also feeling lost without her daily interactions with patients and colleagues. She finds herself questioning her identity and purpose now that her previous role is no longer a part of her life.",
+  "archetype": "isolated_elder",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015854_3c5135",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "persona_95",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "intense sadness",
+      "loss of motivation",
+      "isolation"
+    ],
+    "severity": "moderate",
+    "duration": "6 months since the loss",
+    "triggers": [
+      "anniversaries",
+      "family gatherings",
+      "seeing places associated with the deceased"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "listening to music",
+      "spending time with close friends"
+    ],
+    "therapy_history": "attended 3 months of grief counseling after the loss",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "sensitive",
+      "thoughtful",
+      "creative",
+      "introverted",
+      "empathetic"
+    ],
+    "communication_style": "emotional",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "navigate through grief",
+    "develop healthier coping strategies",
+    "increase social interactions"
+  ],
+  "barriers": [
+    "fear of burdening others",
+    "difficulty reaching out for support",
+    "memories associated with grief"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles on grief recovery",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After losing her father unexpectedly to a heart attack, she has been struggling to cope with her emotions. As a creative professional, she initially directed her feelings into her art but has found herself feeling blocked and unmotivated. She seeks a platform that can help her navigate her grief while connecting with others who have experienced similar losses.",
+  "archetype": "grieving_individual",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020552_eb6212",
+  "initial_emotional_state": {
+    "anxiety": 0.3,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

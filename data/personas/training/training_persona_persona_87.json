@@ -1,0 +1,74 @@
+{
+  "id": "persona_87",
+  "demographics": {
+    "age": 34,
+    "gender": "female",
+    "occupation": "marketing manager",
+    "education": "Bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "relationship conflicts",
+      "communication issues",
+      "fear of abandonment"
+    ],
+    "severity": "moderate",
+    "duration": "2 years",
+    "triggers": [
+      "arguments with partner",
+      "social gatherings",
+      "reminders of past relationships"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "talking to friends",
+      "exercise"
+    ],
+    "therapy_history": "attended couples therapy for 6 months, currently not in therapy",
+    "medication": "no"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "anxious",
+      "introspective",
+      "determined",
+      "sensitive"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "improve communication skills",
+    "reduce anxiety in relationships",
+    "develop self-confidence"
+  ],
+  "barriers": [
+    "difficulty expressing needs",
+    "fear of vulnerability",
+    "lack of time due to work"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "articles about relationship dynamics",
+      "video content"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Having grown up in a single-parent household, she often struggles with feelings of insecurity in her relationships. After a tough breakup several years ago, she has been working on understanding her emotional triggers and wishes to build healthier connections.",
+  "archetype": "relationship_struggles",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020442_cc7615",
+  "initial_emotional_state": {
+    "anxiety": 0.3,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

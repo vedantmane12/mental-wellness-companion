@@ -1,0 +1,74 @@
+{
+  "id": "persona_45",
+  "demographics": {
+    "age": 32,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "bachelor's degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "grief from losing a loved one",
+      "anxiety about moving forward",
+      "feelings of isolation"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "anniversaries of the death",
+      "family gatherings",
+      "places associated with the lost loved one"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "art therapy",
+      "talking to close friends"
+    ],
+    "therapy_history": "attended grief counseling for 2 months, found it helpful but overwhelming at times",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "creative",
+      "sensitive",
+      "introspective",
+      "thoughtful"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "process grief more effectively",
+    "improve emotional regulation",
+    "build a support network"
+  ],
+  "barriers": [
+    "difficulty in expressing emotions",
+    "fear of judgment from others",
+    "lack of time due to work commitments"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles on coping with grief",
+      "guided meditations",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After the sudden loss of her younger brother in a car accident, she has struggled to find a new normal. Working from home as a graphic designer, she often feels isolated and overwhelmed by her grief, seeking ways to honor his memory while trying to regain her own sense of joy.",
+  "archetype": "grieving_individual",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015902_ddfb5a",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

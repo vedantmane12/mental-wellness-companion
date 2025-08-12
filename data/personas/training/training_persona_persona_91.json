@@ -1,0 +1,79 @@
+{
+  "id": "persona_91",
+  "demographics": {
+    "age": 20,
+    "gender": "female",
+    "occupation": "undergraduate student",
+    "education": "pursuing a Bachelor's degree in Psychology",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "academic stress",
+      "time management",
+      "fear of failure",
+      "social anxiety"
+    ],
+    "severity": "moderate",
+    "duration": "ongoing for the past semester",
+    "triggers": [
+      "upcoming exams",
+      "deadlines for assignments",
+      "peer comparisons",
+      "public speaking situations"
+    ],
+    "coping_mechanisms": [
+      "deep breathing exercises",
+      "journaling",
+      "exercise",
+      "talking to friends"
+    ],
+    "therapy_history": "attended a few counseling sessions during high school but hasn't sought help in college",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "perfectionistic",
+      "anxious",
+      "empathetic",
+      "thoughtful",
+      "determined"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "manage academic stress more effectively",
+    "develop better time management skills",
+    "improve self-esteem",
+    "enhance social connections"
+  ],
+  "barriers": [
+    "fear of judgment from peers",
+    "lack of time due to academic demands",
+    "difficulty in prioritizing mental health over studies"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "stress management articles",
+      "community support forums",
+      "short video tutorials"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Growing up in a busy urban environment, she often felt the need to excel academically to make her family proud. As a first-generation college student, she experiences immense pressure to succeed, which has led to mounting stress and anxiety in her academic life.",
+  "archetype": "stressed_student",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020522_fff72b",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "persona_21",
+  "demographics": {
+    "age": 20,
+    "gender": "female",
+    "occupation": "undergraduate student",
+    "education": "currently enrolled in a bachelor's degree program",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "academic stress",
+      "anxiety",
+      "time management",
+      "self-esteem"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "upcoming exams",
+      "project deadlines",
+      "peer comparisons",
+      "family expectations"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "exercise",
+      "meditation",
+      "talking to friends"
+    ],
+    "therapy_history": "attended counseling sessions briefly but found it difficult to commit",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "perfectionistic",
+      "empathetic",
+      "introverted",
+      "motivated",
+      "self-critical"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "better manage stress",
+    "improve time management skills",
+    "build confidence in public speaking",
+    "develop healthier coping strategies"
+  ],
+  "barriers": [
+    "busy schedule",
+    "fear of judgment",
+    "lack of self-discipline",
+    "overwhelm from academic workload"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "stress management articles",
+      "community forums",
+      "video tutorials"
+    ],
+    "session_frequency": "as-needed"
+  },
+  "backstory": "Maria is a second-year psychology major living in a college town. She has always been academically driven, but the pressure to excel has started to affect her well-being. Between juggling coursework, part-time job responsibilities, and maintaining friendships, she often feels overwhelmed and struggles with self-imposed high expectations.",
+  "archetype": "stressed_student",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015606_53c98b",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

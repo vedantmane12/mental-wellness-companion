@@ -1,0 +1,74 @@
+{
+  "id": "persona_94",
+  "demographics": {
+    "age": 72,
+    "gender": "female",
+    "occupation": "retired school teacher",
+    "education": "Master's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "loneliness",
+      "grief",
+      "anxiety"
+    ],
+    "severity": "moderate",
+    "duration": "over 2 years",
+    "triggers": [
+      "holidays",
+      "family gatherings",
+      "anniversaries"
+    ],
+    "coping_mechanisms": [
+      "reading",
+      "gardening",
+      "painting"
+    ],
+    "therapy_history": "attended grief counseling for a year after her husband's passing",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "thoughtful",
+      "introverted",
+      "nostalgic",
+      "cautious"
+    ],
+    "communication_style": "emotional",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "connect with others",
+    "manage feelings of loneliness",
+    "develop new hobbies"
+  ],
+  "barriers": [
+    "limited social interactions",
+    "fear of new situations",
+    "physical health issues"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "community forums",
+      "workshops"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After losing her husband of 50 years, Margaret has struggled with feelings of loneliness and grief. She has a close-knit family but often feels disconnected, especially during holidays. Margaret seeks to rediscover joy in life and connect with others who understand her journey.",
+  "archetype": "isolated_elder",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020546_c8744d",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

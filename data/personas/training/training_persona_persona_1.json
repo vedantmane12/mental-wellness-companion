@@ -1,0 +1,76 @@
+{
+  "id": "persona_1",
+  "demographics": {
+    "age": 24,
+    "gender": "female",
+    "occupation": "medical student",
+    "education": "postgraduate",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "chronic stress",
+      "anxiety",
+      "burnout"
+    ],
+    "severity": "severe",
+    "duration": "6 months",
+    "triggers": [
+      "academic pressure",
+      "lack of sleep",
+      "financial stress",
+      "personal relationships"
+    ],
+    "coping_mechanisms": [
+      "running",
+      "journaling",
+      "talking to friends"
+    ],
+    "therapy_history": "no previous therapy experience but interested in exploring options",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "perfectionistic",
+      "empathetic",
+      "detail-oriented",
+      "introverted",
+      "anxious"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "manage stress levels",
+    "improve work-life balance",
+    "develop healthy coping strategies",
+    "enhance time management skills"
+  ],
+  "barriers": [
+    "time constraints due to studies",
+    "fear of stigmatization around mental health",
+    "difficulty prioritizing self-care"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditation",
+      "informative articles",
+      "peer support groups"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Emily is a first-year medical student who moved to the city for her studies, leaving her close-knit family behind. She often feels overwhelmed by the demands of her program and struggles to find time for self-care amid her busy schedule.",
+  "archetype": "stressed_student",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015339_3ebe5b",
+  "initial_emotional_state": {
+    "anxiety": 0.6,
+    "depression": 0.3,
+    "stress": 0.6,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

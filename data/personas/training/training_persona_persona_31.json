@@ -1,0 +1,80 @@
+{
+  "id": "persona_31",
+  "demographics": {
+    "age": 24,
+    "gender": "female",
+    "occupation": "medical student",
+    "education": "Doctor of Medicine (MD) program",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "burnout",
+      "anxiety",
+      "lack of sleep",
+      "imposter syndrome"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "heavy coursework",
+      "exams",
+      "lack of support",
+      "perfectionism"
+    ],
+    "coping_mechanisms": [
+      "exercise",
+      "journaling",
+      "meditation",
+      "talking to friends"
+    ],
+    "therapy_history": "currently in therapy for the last 3 months",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "hardworking",
+      "anxious",
+      "empathetic",
+      "detail-oriented",
+      "self-critical"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "high",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "manage stress better",
+    "balance school and personal life",
+    "improve sleep quality",
+    "build a support network"
+  ],
+  "barriers": [
+    "time constraints",
+    "financial stress",
+    "fear of judgment from peers",
+    "lack of self-care practices"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles",
+      "videos",
+      "guided meditations",
+      "peer support forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Growing up in a single-parent household, she excelled academically and has always pushed herself to achieve high standards. Now in medical school, the pressures have intensified, causing her to experience significant stress and burnout as she navigates a demanding curriculum while maintaining her desire to help others.",
+  "archetype": "stressed_student",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015723_72e6b8",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

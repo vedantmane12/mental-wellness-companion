@@ -1,0 +1,77 @@
+{
+  "id": "persona_0",
+  "demographics": {
+    "age": 62,
+    "gender": "female",
+    "occupation": "Senior Marketing Executive",
+    "education": "Master's Degree in Business Administration",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "retirement anxiety",
+      "identity loss",
+      "financial security",
+      "social isolation"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "discussions about retirement",
+      "financial reviews",
+      "family gatherings where future plans are discussed"
+    ],
+    "coping_mechanisms": [
+      "mindfulness meditation",
+      "journaling",
+      "talking to friends"
+    ],
+    "therapy_history": "attended cognitive-behavioral therapy sessions a few years ago, considering returning for support",
+    "medication": "no"
+  },
+  "personality": {
+    "traits": [
+      "responsible",
+      "detail-oriented",
+      "empathetic",
+      "anxious",
+      "goal-driven"
+    ],
+    "communication_style": "direct",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "to feel more confident about retirement",
+    "to establish a new routine post-career",
+    "to connect with others in similar situations",
+    "to manage anxiety related to financial security"
+  ],
+  "barriers": [
+    "fear of the unknown",
+    "lack of clear retirement plans",
+    "limited social interactions outside work",
+    "feeling overwhelmed by the prospect of change"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles and guides",
+      "guided meditations",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After a successful 40-year career in marketing and branding, she is now grappling with retirement. Linda has dedicated her life to her work, and the thought of stepping away from her role is causing her significant anxiety. She's also concerned about maintaining her financial stability and finding new social outlets outside her former job.",
+  "archetype": "anxious_professional",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015331_ff6aa4",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

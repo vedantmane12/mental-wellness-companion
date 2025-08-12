@@ -1,0 +1,74 @@
+{
+  "id": "persona_4",
+  "demographics": {
+    "age": 65,
+    "gender": "female",
+    "occupation": "school teacher",
+    "education": "Bachelor's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "feelings of purposelessness",
+      "lack of routine",
+      "difficulty in making social connections"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "seeing friends still working",
+      "holidays or family gatherings",
+      "quiet evenings alone"
+    ],
+    "coping_mechanisms": [
+      "volunteering at local schools",
+      "attending community events",
+      "engaging in hobbies like gardening"
+    ],
+    "therapy_history": "attended couple's therapy a few years ago; no individual therapy",
+    "medication": "no"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "thoughtful",
+      "anxious",
+      "reflective",
+      "creative"
+    ],
+    "communication_style": "emotional",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "develop a new sense of purpose",
+    "build a social network",
+    "engage in lifelong learning"
+  ],
+  "barriers": [
+    "fear of rejection in social situations",
+    "lack of structure in daily life",
+    "difficulty finding suitable activities"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "videos",
+      "articles",
+      "guided meditations"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After a fulfilling 40-year career as a school teacher, Nora recently retired and is struggling to adjust to a life without daily responsibilities. She feels lost and is keen to find new passions and friendships to fill her time.",
+  "archetype": "isolated_elder",
+  "batch_prefix": "test",
+  "generated_at": "timestamp_20250811_003804_9784da",
+  "initial_emotional_state": {
+    "anxiety": 0.3,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

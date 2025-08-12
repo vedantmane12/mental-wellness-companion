@@ -1,0 +1,74 @@
+{
+  "id": "persona_47",
+  "demographics": {
+    "age": 28,
+    "gender": "female",
+    "occupation": "Marketing Coordinator",
+    "education": "Bachelor's Degree",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "relationship anxiety",
+      "communication issues",
+      "fear of commitment"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "conflict with partner",
+      "discussions about future plans",
+      "social gatherings with couples"
+    ],
+    "coping_mechanisms": [
+      "journaling",
+      "yoga",
+      "talking to friends"
+    ],
+    "therapy_history": "attended therapy for a brief period during college but discontinued",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "thoughtful",
+      "anxious",
+      "introverted",
+      "creative"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "improve communication skills in relationships",
+    "reduce anxiety related to commitment",
+    "develop healthier coping strategies"
+  ],
+  "barriers": [
+    "fear of vulnerability",
+    "busy work schedule",
+    "difficulty opening up to therapy"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles",
+      "guided meditations",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Growing up in a single-parent household, she often found herself taking on a caregiver role. This upbringing contributed to her anxiety about being in a vulnerable position in relationships. Now, as an adult, she struggles with feeling insecure when discussing future commitments with her partner.",
+  "archetype": "relationship_struggles",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015913_fa2849",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

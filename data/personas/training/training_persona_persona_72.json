@@ -1,0 +1,74 @@
+{
+  "id": "persona_72",
+  "demographics": {
+    "age": 29,
+    "gender": "female",
+    "occupation": "graphic designer",
+    "education": "Bachelor's degree in Fine Arts",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "seasonal depression",
+      "anxiety",
+      "lack of motivation"
+    ],
+    "severity": "moderate",
+    "duration": "3 years",
+    "triggers": [
+      "shorter daylight hours",
+      "cold weather",
+      "holiday stress"
+    ],
+    "coping_mechanisms": [
+      "indoor gardening",
+      "art therapy",
+      "socializing with friends"
+    ],
+    "therapy_history": "has attended therapy sessions intermittently for the past year",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "creative",
+      "empathetic",
+      "sensitive",
+      "perfectionistic",
+      "introverted"
+    ],
+    "communication_style": "indirect",
+    "openness": "high",
+    "motivation_level": "medium",
+    "tech_comfort": "high"
+  },
+  "goals": [
+    "establish a consistent self-care routine",
+    "improve mood during winter months",
+    "increase engagement in social activities"
+  ],
+  "barriers": [
+    "time constraints due to work",
+    "difficulty sticking to routines",
+    "fear of reaching out for support"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "artistic prompts",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "Growing up in a coastal town, she loved the bright summers but always felt low during the winter months. After moving to the city for her career, the lack of sunlight intensified her seasonal depression, leading her to seek healthier coping strategies.",
+  "archetype": "depressed_adult",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020242_f1c7f8",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.45,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.267
+  }
+}

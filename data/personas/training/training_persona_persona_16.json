@@ -1,0 +1,74 @@
+{
+  "id": "persona_16",
+  "demographics": {
+    "age": 35,
+    "gender": "female",
+    "occupation": "registered nurse",
+    "education": "Bachelor's degree in Nursing",
+    "location": "urban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "burnout",
+      "anxiety",
+      "work-life balance"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "long shifts",
+      "lack of support",
+      "emotional demands of patients"
+    ],
+    "coping_mechanisms": [
+      "exercise",
+      "journaling",
+      "weekly therapy sessions"
+    ],
+    "therapy_history": "attended therapy for 3 months previously, has found it helpful but inconsistent due to work schedule",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "hardworking",
+      "perfectionist",
+      "resilient",
+      "introverted"
+    ],
+    "communication_style": "direct",
+    "openness": "medium",
+    "motivation_level": "high",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "manage stress better",
+    "establish a healthier work-life balance",
+    "develop effective coping strategies"
+  ],
+  "barriers": [
+    "long working hours",
+    "high patient load",
+    "limited access to mental health resources at work"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditation",
+      "informational articles",
+      "peer support forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After a decade in the demanding field of nursing, she has recently started feeling overwhelmed by emotional fatigue and stress, especially during the pandemic. With a strong desire to support her patients, she's struggling to find time for self-care and is seeking tools to help manage her mental health without compromising her work or personal life.",
+  "archetype": "burnout_healthcare",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015533_14a71b",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "persona_90",
+  "demographics": {
+    "age": 62,
+    "gender": "female",
+    "occupation": "marketing director",
+    "education": "master's degree",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "retirement anxiety",
+      "identity loss",
+      "financial security",
+      "stress management"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "financial news",
+      "conversations about retirement",
+      "work-related deadlines",
+      "family discussions about future plans"
+    ],
+    "coping_mechanisms": [
+      "mindfulness meditation",
+      "journaling",
+      "exercise",
+      "socializing with friends"
+    ],
+    "therapy_history": "attended therapy for 1 year in the past, currently not in therapy",
+    "medication": "considering"
+  },
+  "personality": {
+    "traits": [
+      "anxious",
+      "detail-oriented",
+      "empathetic",
+      "cautious",
+      "resilient"
+    ],
+    "communication_style": "indirect",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "develop a clear retirement plan",
+    "reduce anxiety related to retirement",
+    "explore new hobbies",
+    "improve work-life balance"
+  ],
+  "barriers": [
+    "fear of the unknown",
+    "lack of clarity on personal interests post-retirement",
+    "financial concerns"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "articles",
+      "podcasts",
+      "guided meditations",
+      "community forums"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "As a marketing director at a successful company, Sarah has dedicated over three decades of her life to her career. Now, with retirement on the horizon, she struggles with the idea of losing her professional identity and the anxiety surrounding her financial future and personal life transitions.",
+  "archetype": "anxious_professional",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_020509_85c64b",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.45,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}

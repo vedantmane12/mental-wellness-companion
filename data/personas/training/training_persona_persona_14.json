@@ -1,0 +1,74 @@
+{
+  "id": "persona_14",
+  "demographics": {
+    "age": 65,
+    "gender": "female",
+    "occupation": "nurse (retired)",
+    "education": "Bachelor's degree in Nursing",
+    "location": "suburban"
+  },
+  "mental_health": {
+    "primary_concerns": [
+      "feeling purposeless",
+      "loneliness",
+      "anxiety about health"
+    ],
+    "severity": "moderate",
+    "duration": "6 months",
+    "triggers": [
+      "lack of daily structure",
+      "seeing friends engage in active work",
+      "health-related news"
+    ],
+    "coping_mechanisms": [
+      "gardening",
+      "attending community events",
+      "volunteering"
+    ],
+    "therapy_history": "completed group therapy sessions about adjustment to retirement 3 months ago",
+    "medication": "no"
+  },
+  "personality": {
+    "traits": [
+      "empathetic",
+      "caring",
+      "reflective",
+      "socially aware",
+      "anxious"
+    ],
+    "communication_style": "empathetic",
+    "openness": "medium",
+    "motivation_level": "medium",
+    "tech_comfort": "medium"
+  },
+  "goals": [
+    "rediscover sense of purpose",
+    "build new social connections",
+    "manage anxiety effectively"
+  ],
+  "barriers": [
+    "limited social circles after retirement",
+    "physical health issues",
+    "feelings of inadequacy"
+  ],
+  "preferences": {
+    "interaction_style": "supportive",
+    "resource_types": [
+      "guided meditations",
+      "community forums",
+      "informative articles on retirement"
+    ],
+    "session_frequency": "weekly"
+  },
+  "backstory": "After a fulfilling 40-year career as a nurse, Maria recently retired, finding it hard to adapt to the sudden lack of daily routine and purpose. Living alone in a suburban neighborhood, she seeks ways to connect with others and re-establish her identity beyond her work.",
+  "archetype": "isolated_elder",
+  "batch_prefix": "training",
+  "generated_at": "timestamp_20250811_015520_284db7",
+  "initial_emotional_state": {
+    "anxiety": 0.45,
+    "depression": 0.3,
+    "stress": 0.3,
+    "anger": 0.2,
+    "happiness": 0.4
+  }
+}
