@@ -1,0 +1,53 @@
+MIT License
+
+Copyright (c) 2024 Vedant Mane
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+ADDITIONAL TERMS FOR MENTAL WELLNESS COMPANION:
+
+1. DISCLAIMER OF MEDICAL ADVICE: This software is not intended to provide
+   medical advice, diagnosis, or treatment. It is designed for educational
+   and supportive purposes only. Users should always consult with qualified
+   healthcare professionals for medical concerns.
+
+2. NO WARRANTY FOR MENTAL HEALTH OUTCOMES: The authors and copyright holders
+   make no warranties or representations regarding the effectiveness of this
+   software for mental health support or treatment. Use of this software is
+   at the user's own risk.
+
+3. ETHICAL USE REQUIREMENT: By using this software, you agree to:
+   - Not use it to replace professional mental health care
+   - Implement appropriate safety measures when deploying
+   - Respect user privacy and confidentiality
+   - Not modify the software in ways that could harm users
+   - Include crisis resources in any deployment
+
+4. ATTRIBUTION: Any deployment or derivative work must clearly indicate:
+   - That it is AI-powered and not human therapy
+   - The limitations of the system
+   - Available crisis resources
+   - That it's based on the Mental Wellness Companion project
+
+5. DATA PROTECTION: Any deployment must comply with applicable data
+   protection laws (GDPR, HIPAA, etc.) and must not store or share
+   user conversation data without explicit consent.
+
+By using, modifying, or distributing this software, you acknowledge
+that you have read, understood, and agree to be bound by these terms.
